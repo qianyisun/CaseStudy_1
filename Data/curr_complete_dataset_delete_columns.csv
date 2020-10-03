@@ -1,0 +1,1245 @@
+PID,M1,M2,M3,M4,M5,M6,M7,M8,M9,M10,M11,M12,ProviderName,lat,lng,county_name
+6,11,5,7,6,4,3,3,5,6,5,3,11,Accel at College Station,30.56255,-96.27564,Brazos
+8,20,12,14,12,16,17,15,8,6,6,4,7,Accel at Willow Bend,33.0355,-96.81001,Collin
+9,10,10,15,12,11,11,12,7,10,6,10,6,Adora Midtown Park,32.87767,-96.74979,Dallas
+10,2,0,1,0,1,0,0,0,0,0,0,0,Advance Healthcare Solutions,33.85238,-98.54057,Wichita
+11,4,6,5,6,3,4,1,1,0,0,0,0,Advanced Health and Rehabilitation Center of Garland,32.85707,-96.57941,Dallas
+12,3,3,5,4,3,2,3,4,1,1,2,2,Advanced Rehab and Healthcare,29.55554,-98.36174,Bexar
+13,4,7,1,4,1,2,2,2,0,1,0,4,Advanced Rehab and Healthcare of Athens,32.09642,-95.9083,Henderson
+14,3,8,9,5,4,9,4,5,1,2,4,3,Advanced Rehab of Wichita Falls,33.85238,-98.54057,Wichita
+15,1,1,3,3,4,4,1,3,6,5,3,4,Advanced Rehabilitation and Healthcare of Bowie,33.51993,-97.95469,Montague
+16,0,0,0,0,0,0,1,1,1,1,0,0,ADVANCED REHABILITATION AND HEALTHCARE OF LIVE OAK,29.55554,-98.36174,Bexar
+17,14,14,12,7,8,15,11,13,7,10,6,7,Adventhealth Care Center Burleson,32.52605,-97.30317,Johnson
+18,1,0,3,3,6,6,5,6,4,5,2,0,Afton Oaks Healthcare And Rehabilitation Center,29.686120000000006,-95.30343,Harris
+19,2,3,1,5,2,1,4,3,3,1,3,5,Alameda Oaks Nursing Center,27.76805,-97.39899,Nueces
+20,2,1,1,3,2,3,4,0,4,6,1,3,Alamo Heights Health and Rehabilitation Center,29.48906,-98.45671,Bexar
+21,0,1,0,1,0,0,0,2,1,0,1,0,Alfredo Gonzalez Texas State Veterans Home,26.16531,-98.24764,Hidalgo
+22,9,7,9,9,12,12,12,14,11,10,11,10,ALLEGIANT WELLNESS AND REHAB,32.577020000000005,-97.41283,Tarrant
+23,4,4,2,2,1,4,1,2,1,2,1,2,Alpine Terrace,30.03422,-99.15819,Kerr
+25,8,9,20,9,10,4,5,10,5,9,13,13,Alta Vista Rehabilitation and Healthcare,25.95038,-97.32167,Cameron
+27,1,0,1,0,2,0,1,1,1,0,1,0,Alvarado Meadows Nursing and Rehabilitation Center,32.41579,-97.20169,Johnson
+28,7,4,7,7,3,0,5,5,3,8,0,3,Amarillo Center for Skilled Care,35.20318,-101.89519,Potter
+29,0,0,0,1,2,1,1,2,1,1,1,1,Ambrosio Guillen Texas State Veterans Home,31.90245,-106.41325,El Paso
+31,5,7,5,8,3,4,0,2,2,3,9,6,"Amistad Nursing Home and Rehabilitation Center, LLC",29.35664,-99.87147,Uvalde
+33,1,1,1,2,0,1,0,0,0,0,0,1,Anderson Nursing Center,32.64689,-95.69144,Van Zandt
+35,0,0,0,0,0,3,1,0,0,0,0,0,Anson General Hospital,32.74484,-99.90508,Jones
+37,0,0,0,0,1,0,0,0,0,0,1,0,Apex Secure Care Brownfield,33.14437,-102.31614,Terry
+38,0,0,0,0,0,0,0,2,1,0,0,0,Arbor Grace Of Kilgore,32.383990000000004,-94.87015,Gregg
+41,1,0,0,0,0,0,0,1,1,0,0,4,Arbor Grace Wellness Center,33.88987,-102.33544,Lamb
+42,1,0,1,1,1,2,1,3,1,1,2,2,Arbor Terrace Healthcare Center,31.484820000000006,-100.43723,Tom Green
+43,2,1,1,0,1,0,0,0,0,0,0,1,Arboretum Nursing and Rehabilitation Center of Winnie,29.81687,-94.41658,Chambers
+45,15,10,10,12,13,14,10,11,6,5,4,5,Arbrook Plaza,32.69202,-97.08794,Tarrant
+46,0,0,0,0,0,0,0,0,0,0,0,1,Archer City Nursing Center,33.568909999999995,-98.67458,Archer
+47,1,1,1,1,5,2,2,2,1,2,1,1,Arlington Heights Health and Rehabilitation Center,32.74171,-97.38196,Tarrant
+48,0,0,0,0,2,0,1,2,3,2,1,1,Arlington Residence and Rehabilitation Center,32.75425,-97.08254,Tarrant
+49,7,5,4,7,2,6,3,5,1,2,1,2,Arlington Villa Nursing Retirement Center,32.75461,-97.13902,Tarrant
+50,0,0,0,0,2,2,1,0,0,2,0,0,Army Residence Community Health Care Center,29.5168,-98.363,Bexar
+52,5,3,4,1,5,3,4,4,7,6,6,3,Ashford Gardens,29.85962,-95.38351,Harris
+53,0,0,1,0,2,0,0,0,0,0,0,1,Ashford Hall,32.82602,-96.96544,Dallas
+54,4,4,7,2,2,4,4,6,2,3,5,5,Ashton Medical Lodge,31.97945,-102.13231,Midland
+55,5,4,4,4,3,2,2,2,2,2,1,0,Ashton Park Care Center,29.39941,-94.99751,Galveston
+56,0,0,0,0,2,1,1,1,0,0,0,0,Athens Healthcare and Rehabilitation,32.09642,-95.9083,Henderson
+59,4,2,1,0,1,1,0,1,1,0,0,0,Austin Healthcare And Rehabilitation,30.30427,-97.6857,Travis
+60,3,1,2,0,3,0,3,1,3,2,2,0,Austin Retirement and Nursing Center,30.35158,-97.73252,Travis
+61,6,4,4,2,2,2,2,2,4,1,3,1,AUSTIN WELLNESS AND REHABILITATION,30.41828,-97.80246,Travis
+64,0,2,4,4,5,8,4,3,2,0,3,2,Autumn Leaves,32.84154,-96.70236,Dallas
+65,1,1,1,5,3,5,2,1,1,5,2,1,Autumn Leaves Nursing and Rehabilitation,32.229890000000005,-94.73272,Rusk
+66,0,0,0,1,0,0,0,0,0,0,0,0,Autumn Winds,29.54622,-98.26628,Guadalupe
+67,1,0,1,1,0,0,2,1,1,0,2,1,Avalon Place Kirbyville,30.67771,-93.97824,Jasper
+68,2,1,4,3,1,3,11,5,1,4,4,1,Avalon Place Trinity,30.959840000000003,-95.32384,Trinity
+69,0,1,2,4,1,3,3,1,3,0,2,0,Avalon Place Wharton,29.30682,-96.09125,Wharton
+70,1,0,0,1,2,1,3,0,0,0,0,0,Avante Rehabilitation and Care Center,32.82602,-96.96544,Dallas
+72,1,1,0,5,3,3,3,4,0,1,1,0,Azalea Trail Nursing and Rehabilitation Center,32.64689,-95.69144,Van Zandt
+73,4,1,4,3,5,2,4,3,1,1,2,1,Azle Manor Health Care and Rehabilitation,32.900040000000004,-97.56544,Tarrant
+74,0,0,1,1,0,2,0,0,0,0,0,0,Balch Springs Health and Rehabilitation,32.71894,-96.61839,Dallas
+75,0,1,0,1,0,0,0,1,0,1,1,1,Ballinger Healthcare and Rehabilitation Center,31.7387,-99.93626,Runnels
+77,1,0,1,0,1,0,2,1,2,2,1,0,Bandera Nursing and Rehabilitation Center,29.70959,-99.09413,Bandera
+78,1,0,0,0,0,0,0,0,1,0,2,0,Bangs Nursing and Rehabilitation Center,31.701190000000004,-99.15992,Brown
+80,8,4,2,4,5,4,3,6,3,3,1,3,Bastrop Lost Pines Nursing and Rehabilitation Center,30.12383,-97.3284,Bastrop
+81,1,0,2,1,0,3,3,2,3,2,0,2,Bastrop Nursing Center,30.12383,-97.3284,Bastrop
+82,4,1,3,1,1,1,1,3,0,3,3,1,Bay Villa Healthcare Center,28.899590000000003,-95.88091,Matagorda
+83,14,11,21,15,14,13,18,15,8,6,7,5,Baybrooke Village Care and Rehabilitation Center,33.17311,-96.69773,Collin
+84,6,2,0,3,2,0,0,2,1,0,0,0,Baylor Scott And White Continuing Care Hospital,31.09622,-97.41034,Bell
+90,4,4,6,6,4,3,4,5,4,4,2,3,Bayou Pines Care Center,29.36383,-94.97975,Galveston
+92,18,14,17,18,30,11,13,17,17,20,24,23,Baywind Village Skilled Nursing and Rehabilitation,29.50205,-95.08652,Galveston
+93,2,5,2,2,5,2,1,1,2,2,2,4,Baywood Crossing Rehabilitation and Healthcare Center,29.64608,-95.13826,Harris
+94,1,8,4,9,9,15,6,11,5,4,4,3,Beacon Harbor Healthcare and Rehabilitation,32.941720000000004,-96.44993,Rockwall
+95,15,9,15,9,14,7,10,16,7,12,8,7,Beacon Hill,33.77167,-96.60413,Grayson
+96,7,2,1,2,6,6,1,5,3,5,2,4,Beaumont Health Care Center,30.05295,-94.17654,Jefferson
+97,0,0,0,1,0,1,1,1,0,0,0,0,Beaumont Nursing and Rehabilitation,30.05295,-94.17654,Jefferson
+98,5,6,5,4,1,3,3,4,2,1,1,0,Bedford Wellness And Rehabilitation,32.85231,-97.13119,Tarrant
+99,6,2,3,2,1,1,4,3,3,4,3,3,Beechnut Manor,29.69962,-95.58504,Harris
+100,14,8,11,3,5,4,8,5,7,6,5,10,Bel Air at Teravista,30.54489,-97.64379,Williamson
+104,1,1,2,0,0,0,0,0,0,0,0,0,Bellville Medical Center,29.978790000000004,-96.25057,Austin
+105,5,6,9,9,9,8,14,12,10,7,7,4,Belterra Health And Rehabilitation Center,33.24664,-96.62898,Collin
+107,1,0,0,1,0,0,0,0,0,0,0,0,Benbrook Nursing and Rehabilitation Center,32.63383,-97.51234,Tarrant
+108,0,0,0,0,0,1,0,0,1,0,0,0,Bertram Nursing and Rehab Center,30.782190000000003,-98.04562,Burnet
+109,2,0,0,1,0,1,0,0,0,0,1,1,Big Bend Regional Medical Center,29.80008,-103.22466,Brewster
+111,1,0,0,1,1,2,1,1,0,1,4,0,Big Spring Center For Skilled Care,32.253640000000004,-101.47291,Howard
+112,0,0,0,0,0,0,2,0,1,0,0,1,"Birchwood Nursing and Rehabilitation, LP",33.39603,-95.67444,Delta
+114,3,3,4,7,3,2,3,7,3,4,4,3,Bishop Davies Nursing Center,32.85918,-97.17782,Tarrant
+115,6,3,8,6,9,4,8,4,6,4,7,5,Bivins Pointe,35.20318,-101.89519,Potter
+116,0,0,2,2,1,1,1,1,0,0,0,0,Blanco Villa Nursing and Rehabilitation,29.53646,-98.4892,Bexar
+117,1,0,1,1,1,0,1,0,1,2,1,0,Blue Skies of Texas East,29.40626,-98.62941,Bexar
+118,0,1,0,1,0,1,0,1,0,1,0,1,Blue Skies of Texas West,29.40396,-98.73079,Bexar
+119,0,1,1,0,0,0,0,0,0,0,1,1,Bluebonnet Nursing And Rehabilitation,28.88645,-97.95035,Karnes
+121,1,1,1,1,0,0,1,1,1,0,0,0,"Bonham Nursing and Rehabilitation, LP",33.57268,-96.17766,Fannin
+122,17,25,31,29,32,23,16,26,9,8,4,8,BONNE VIE,29.88111,-93.94104,Jefferson
+123,3,1,1,0,1,0,0,0,1,0,0,0,Bonner Street Plaza Healthcare and Rehabilitation,31.9462,-95.25704,Cherokee
+124,2,2,2,0,0,0,0,0,0,1,0,0,Borger Healthcare Center,35.69979,-101.39788,Hutchinson
+126,0,1,0,0,1,0,0,0,0,1,0,0,Brady West Rehabilitation and Nursing Center,31.104740000000003,-99.39545,McCulloch
+127,1,0,0,0,1,0,0,0,0,0,0,0,Brazos at Waco,31.51441,-97.15333,McLennan
+128,1,1,1,3,0,0,4,3,1,0,1,1,Brazos Towers At Bayou Manor,29.68661,-95.43499,Harris
+129,0,0,0,1,1,0,0,0,0,0,0,1,Brazos Valley Care Homebrazos Valley Nursing And Rehabilitation Center,33.43853,-99.8473,Knox
+131,1,0,0,0,1,0,1,0,1,0,0,2,Brazosview Healthcare Center,29.48,-95.68315,Fort Bend
+132,0,0,0,0,0,1,0,0,0,0,0,0,Bremond Nursing and Rehabilitation Center,31.15492,-96.6554,Robertson
+133,5,5,4,6,8,7,5,6,5,1,2,4,Brenham Nursing and Rehabilitation Center,30.21068,-96.40706,Washington
+135,0,0,2,0,0,1,2,1,0,0,0,0,Brentwood Four,32.77001,-96.68728,Dallas
+136,0,1,1,1,1,0,0,0,0,0,0,0,Brentwood Place I,32.77001,-96.68728,Dallas
+137,1,0,0,0,0,0,0,1,0,0,0,0,Brentwood Place II,32.77001,-96.68728,Dallas
+138,0,0,0,0,0,2,1,1,1,1,0,0,Brentwood Place III,32.77001,-96.68728,Dallas
+139,6,2,4,2,6,7,12,4,4,6,4,5,Brentwood Terrace Healthcare And Rehabilitation Center,33.62385,-95.48378,Lamar
+140,3,2,2,2,4,3,8,7,1,0,1,2,Briarcliff Health Center,32.32329,-95.30091,Smith
+141,6,4,4,5,4,5,12,18,8,9,5,7,"Briarcliff Health Center of Greenville, Inc",33.184259999999995,-96.11951,Hunt
+142,0,0,2,2,2,2,2,0,3,0,1,5,Briarcliff Nursing and Rehabilitation Center,26.21583,-98.23917,Hidalgo
+143,3,5,5,6,6,5,5,9,6,6,3,3,Briarcliff Skilled Nursing Center,32.12895,-94.27705,Panola
+145,5,4,5,6,2,5,3,5,2,2,4,3,Briarwood Nursing And Rehabilitation,29.65377,-95.28422,Harris
+146,3,3,5,6,2,6,6,3,9,5,2,1,"Bridgecrest Rehabiliation Suites, LLC",29.83413,-95.14734,Harris
+147,1,0,1,1,1,0,0,2,0,1,0,1,BRIDGECREST REHABILITATION SUITES,29.83413,-95.14734,Harris
+148,12,1,3,0,2,0,2,0,2,0,2,0,Bridgemoor Transitional Care of Round Rock,30.48988,-97.75371,Williamson
+149,3,1,2,1,3,2,4,2,5,2,3,4,Bridgemoor Transitional Care San Antonio,29.50555,-98.5722,Bexar
+150,9,10,10,14,8,3,4,5,2,1,0,0,BRIDGEMOOR TRANSITIONAL CARE WEBSTER,29.53781,-95.13687,Harris
+151,0,1,0,0,1,0,0,0,0,0,0,2,Brightpointe At Lytle Lake,32.33948,-99.66982,Taylor
+152,16,16,17,21,21,22,20,20,12,11,3,5,BrightPointe at Rivershire,30.32957,-95.5141,Montgomery
+155,17,14,14,12,8,14,7,16,4,7,7,8,Broadmoor Medical Lodge,32.85504,-96.42764,Rockwall
+156,4,1,2,2,2,2,2,2,2,5,3,7,Brodie Ranch Nursing And Rehabilitation Center,30.16538,-97.82343,Travis
+157,0,1,0,0,0,0,0,0,0,1,0,0,Bronte Health and Rehabilitation Center,31.86341,-100.28783,Coke
+158,4,13,8,11,7,14,11,11,12,10,7,9,Brookdale Alamo Heights,29.48906,-98.45671,Bexar
+159,17,14,31,19,15,14,18,17,7,7,6,6,BROOKDALE BROADWAY CITYVIEW,32.667590000000004,-97.41797,Tarrant
+160,12,14,19,19,10,16,12,14,10,16,12,18,Brookdale Galleria,29.74833,-95.46803,Harris
+161,1,6,2,6,4,7,4,8,4,6,2,7,Brookdale Guadalupe River Plaza,30.03422,-99.15819,Kerr
+162,0,1,0,1,0,1,0,1,0,1,0,1,Brookdale Guadalupe River Plaza,30.03422,-99.15819,Kerr
+163,15,7,7,6,5,4,3,6,7,8,5,11,Brookdale Lakeway Healthcare Center,30.37853,-97.94961,Travis
+164,11,9,6,7,8,4,12,4,8,5,9,6,Brookdale Spicewood Springs,30.40268,-97.76105,Travis
+165,8,6,11,5,8,4,5,6,8,8,6,5,Brookdale Trinity Towers,27.798140000000004,-97.40096,Nueces
+166,23,7,11,5,10,11,14,12,14,9,11,13,Brookdale Westlake Hills,30.297290000000004,-97.81054,Travis
+167,1,0,3,2,1,3,4,2,1,2,1,1,Brookdale Willowbrook Place,29.97776,-95.57315,Harris
+168,17,21,36,21,35,35,22,23,21,30,22,27,Brookdale Willowbrook Place Skilled Nursing,29.97776,-95.57315,Harris
+169,4,2,4,7,5,4,3,10,5,4,2,1,Brookhaven Nursing and Rehabilitation Center,33.034240000000004,-96.89672,Denton
+170,2,6,10,6,6,6,6,7,7,10,9,7,Brookhollow Heights Transitional Care Center,29.7986,-95.41754,Harris
+172,0,0,0,0,0,1,0,0,0,0,0,0,Brownfield Regional Medical Center,33.14437,-102.31614,Terry
+173,0,0,1,1,0,3,1,0,2,1,0,1,Brownfield Rehabilitation and Care Center,33.14437,-102.31614,Terry
+174,8,9,11,6,7,8,6,3,9,7,8,6,Brownsville Nursing and Rehabilitation Center,25.99101,-97.43946,Cameron
+175,1,2,3,0,2,0,1,1,1,0,0,3,"Brownwood Nursing and Rehabilitation, LP",31.7425,-99.03991,Brown
+178,2,0,1,0,1,0,1,0,1,0,1,0,Brush Country Nursing And Rehabilitation,30.21376,-97.85821,Travis
+183,4,1,1,1,1,2,1,1,2,1,1,2,Buckner Villas,30.382040000000003,-97.67361,Travis
+184,0,1,0,1,0,0,0,0,0,0,0,1,Buckner Westminister Place,32.58258,-94.72065,Gregg
+185,2,0,3,3,5,8,10,4,2,2,4,3,Buena Vida Nursing And Rehabilitation Center,29.36614,-98.37786,Bexar
+186,0,0,0,0,0,3,3,3,0,2,0,3,Buena Vida Nursing and Rehabilitation Center at Odessa,31.92649,-102.35443,Ector
+188,4,0,6,0,3,0,0,1,3,1,1,2,Burleson Saint Joseph Manor,30.53745,-96.67998,Burleson
+190,1,1,3,2,2,4,1,1,3,1,3,0,Calder Woods,30.09973,-94.17074,Jefferson
+192,9,6,11,13,6,12,8,4,6,8,7,4,Cambridge Health and Rehabilitation Center,29.48,-95.68315,Fort Bend
+193,1,0,0,2,1,1,0,1,0,0,1,1,Cameron Nursing and Rehabilitation Center,30.87611,-96.90748,Milam
+195,10,10,12,7,11,10,6,7,4,3,5,2,Canton Oaks,32.51192,-95.88237,Van Zandt
+199,3,2,4,0,3,3,1,1,2,1,3,0,Caprock Nursing and Rehabilitation Center,35.69979,-101.39788,Hutchinson
+200,1,4,4,4,1,2,2,2,1,5,2,3,Capstone Healthcare Estates At Veterans Memorial,29.9186,-95.44169,Harris
+201,5,2,5,4,2,0,1,0,0,2,3,9,Capstone Healthcare Estates on Orem,29.63571,-95.43306,Harris
+202,2,1,1,2,0,1,2,1,2,2,0,1,CARADAY WESTERN HILLS,31.138070000000006,-97.37258,Bell
+204,0,0,0,0,0,0,0,0,1,0,0,0,Care Choice Of Boerne,29.85533,-98.72266,Kendall
+206,2,7,2,2,2,1,2,4,3,2,0,2,Care Inn of La Grange,29.91566,-96.88947,Fayette
+209,0,0,2,2,3,4,1,1,1,1,2,1,Care Nursing and Rehabilitation Center,31.75327,-98.90283,Brown
+211,5,6,8,6,9,10,4,9,2,4,6,8,Carillon House,33.60429,-101.97648,Lubbock
+213,11,18,13,9,7,8,9,7,3,7,2,0,Carrara,33.0355,-96.81001,Collin
+214,5,4,3,9,10,4,6,7,2,2,2,2,Carriage House Manor,33.16816,-95.60681,Hopkins
+215,5,1,0,0,1,1,1,1,1,1,1,1,"Carrizo Springs Nursing and Rehabilitation, LP",28.46432,-99.92139,Dimmit
+216,0,0,0,2,3,2,3,1,1,0,1,3,Carrollton Health And Rehabilitation Center,32.96188,-96.89701,Dallas
+218,1,1,1,0,4,0,1,2,0,2,3,2,Carthage Healthcare Center,32.12895,-94.27705,Panola
+220,0,3,3,2,1,2,6,2,3,3,1,2,Castle Pines Health and Rehabilitation Center,31.33969,-94.82173,Angelina
+225,5,6,9,6,6,6,11,5,3,6,2,5,CC Young Retirement Community,32.82867,-96.74542,Dallas
+226,0,0,0,0,0,0,1,0,0,0,2,2,Cedar Creek Nursing and Rehabilitation Center,29.70959,-99.09413,Bandera
+229,1,0,0,0,0,0,0,1,1,1,0,0,Cedar Hill Healthcare Center,32.58039,-96.96618,Dallas
+231,6,0,7,3,3,3,3,7,1,2,3,1,Cedar Lake Nursing Home,32.12462,-96.01216,Henderson
+233,3,0,2,1,2,0,2,0,3,1,3,2,Cedar Pointe Health and Wellness Suites,30.50395,-97.82463,Williamson
+234,0,0,2,1,0,0,1,1,2,0,0,1,Centerville Healthcare Center,31.26718,-95.83899,Leon
+237,0,0,0,0,0,1,0,0,0,1,1,1,Central Texas Nursing and Rehabilitation,31.7387,-99.93626,Runnels
+239,2,2,0,0,2,2,1,2,1,0,1,0,Chandler Nursing Center,32.275420000000004,-95.50733,Henderson
+241,0,1,2,2,4,0,3,0,1,1,4,1,Chelsea Gardens,29.52569,-95.533,Fort Bend
+242,2,2,0,1,0,2,1,3,0,0,1,4,Cherokee Rose Nursing and Rehabilitation,32.20528,-97.79713,Somervell
+243,0,0,1,0,1,0,0,1,0,0,0,0,Cherokee Trails Rehab and Healthcare,31.77995,-95.17381,Cherokee
+244,3,2,5,3,2,1,2,0,1,0,1,0,Cheyenne Medical Lodge,32.77003,-96.61487,Dallas
+245,2,2,0,0,0,0,0,0,0,0,0,0,Chi Saint Joseph Health Burleson Hospital,30.53745,-96.67998,Burleson
+246,2,1,0,0,1,1,4,0,0,0,0,0,Chi Saint Joseph Health Grimes Hospital,30.3686,-96.0616,Grimes
+247,4,1,0,0,0,0,0,0,0,0,0,0,CHI Saint Joseph Skilled and Rehabilitation Center,30.66126,-96.32265,Brazos
+249,0,0,0,0,0,1,1,0,0,1,1,1,Childress Healthcare Center,34.43714,-100.28085,Childress
+250,0,0,3,0,0,0,0,0,0,0,0,1,Childress Regional Medical Center,34.43714,-100.28085,Childress
+252,3,4,2,2,1,1,1,2,3,1,3,2,Chisolm Trail Nursing And Rehabilitation Center,29.870490000000004,-97.67528,Caldwell
+253,4,1,0,2,1,2,1,3,0,3,1,3,Christian Care Center,33.37363,-94.13142,Bowie
+254,11,11,12,7,5,6,7,9,2,3,5,6,Christian Care Nursing And Rehabilitation,32.81577,-96.63039,Dallas
+255,0,0,0,0,1,0,0,0,0,0,0,0,CHRISTUS Jasper Memorial Hospital,30.94151,-94.05383,Jasper
+256,0,1,1,1,0,1,1,0,0,0,0,0,Christus Mother Frances Hospital - Winnsboro,32.90938,-95.26235,Hopkins
+257,2,2,5,5,3,2,4,4,0,0,0,0,Christus Mother Frances Hospital Jacksonville,31.9462,-95.25704,Cherokee
+262,0,0,0,1,2,1,1,1,2,1,0,0,CHRISTUS Spohn Hospital Corpus Christi Memorial,27.77425,-97.43876,Nueces
+263,0,0,0,0,1,0,1,0,0,0,0,0,CHRISTUS Spohn Hospital Corpus Christi Shoreline,27.76805,-97.39899,Nueces
+267,2,5,4,3,2,1,5,4,4,8,4,3,Cibolo Creek,29.85533,-98.72266,Kendall
+268,1,1,0,0,2,6,3,3,2,1,2,3,CIMARRON PARK NURSING AND REHABILITATION CENTER,31.89246,-106.54251,El Paso
+269,3,5,3,1,2,2,3,6,3,7,3,5,Cimarron Place Health and Rehabilitation Center,27.6603,-97.36893,Nueces
+270,0,1,1,1,3,4,1,1,1,0,3,0,Cisco Nursing And Rehabilitation,32.39591,-99.02367,Eastland
+271,0,1,0,0,0,1,0,0,0,0,0,0,Citizens Medical Center Skilled Nursing Unit,28.80493,-96.98473,Victoria
+272,2,0,3,2,1,2,3,3,2,4,2,3,Cityview Nursing And Rehabilitation Center,32.667590000000004,-97.41797,Tarrant
+273,10,12,8,6,11,9,8,10,2,3,3,3,Clairmont of Beaumont,30.05295,-94.17654,Jefferson
+274,0,1,2,4,1,1,1,1,1,1,2,1,Clarewood House,29.70167,-95.53594,Harris
+275,2,5,5,4,3,4,7,6,7,3,3,4,Clarksville Nursing Center,33.655390000000004,-95.00488,Red River
+276,0,0,0,0,0,1,0,0,1,0,1,0,Clay County Memorial Hospital,33.75812,-98.20162,Clay
+278,2,2,2,1,3,1,0,2,3,2,1,3,Clear Brook Crossing Rehabilitation and Healthcare Center,29.58675,-95.22525,Harris
+280,15,21,14,16,21,13,11,14,13,6,15,11,Cleveland Health Care Center,30.32154,-94.92631,Liberty
+281,0,0,0,0,0,0,1,1,0,0,0,0,"Clifton Nursing and Rehabilitation Center, LP",31.80782,-97.56147,Bosque
+282,1,0,1,1,0,1,0,0,0,0,0,0,Clyde Nursing Center,32.27507,-99.52899,Callahan
+283,0,0,0,0,0,0,1,2,2,2,0,1,Clyde W Cosper Texas State Veterans Home,33.57268,-96.17766,Fannin
+284,1,2,3,1,1,3,2,2,4,2,1,1,Coastal Palms Nursing And Rehabilitation,27.89798,-97.37805,San Patricio
+285,1,0,1,0,1,0,1,0,1,0,1,0,Cogdell Memorial Hospital,32.91367,-100.84508,Scurry
+288,0,0,0,0,0,0,1,0,0,0,0,0,Coleman County Medical Center,31.874370000000006,-99.47038,Coleman
+289,0,0,0,0,0,0,1,1,0,1,1,2,Coleman Healthcare Center,31.874370000000006,-99.47038,Coleman
+290,21,25,25,35,20,29,25,26,18,22,23,30,College Park Rehabilitation and Care Center,32.75481,-97.78995,Parker
+291,0,2,1,1,4,1,0,3,0,0,0,1,College Street Nursing Center,30.05295,-94.17654,Jefferson
+292,0,0,0,0,0,0,0,1,0,0,0,0,Collingsworth General Hospital,34.896159999999995,-100.2061,Collingsworth
+293,0,2,1,1,3,2,3,0,0,1,0,0,Collinwood Nursing And Rehabilitation,33.0319,-96.67429,Collin
+294,1,0,1,0,2,1,0,1,1,0,0,2,Colonial Belle Nursing Home,29.978790000000004,-96.25057,Austin
+295,0,0,0,0,0,0,0,0,1,0,1,0,Colonial Belle Nursing Home Sealy,29.773770000000006,-96.17926,Austin
+296,0,0,0,0,0,1,1,1,1,0,0,1,Colonial Care Center,29.68793,-96.93415,Fayette
+298,6,6,12,9,8,8,6,9,9,8,7,4,Colonial Manor Advanced Rehab and Healthcare,26.15047,-98.19104,Hidalgo
+299,0,1,1,1,0,2,0,2,2,4,1,1,Colonial Manor Nursing And Rehabilitation Center,29.69772,-98.0702,Comal
+300,0,0,0,1,0,0,0,0,1,1,1,0,Colonial Manor Nursing Center,32.28511,-97.51137,Johnson
+301,10,9,9,11,11,6,7,13,5,7,1,2,Colonial Nursing and Rehabilitation Center,32.5361,-95.43456,Smith
+306,3,2,7,5,3,7,8,6,3,7,6,6,Colonial Pines Healthcare Center,31.49499,-94.12708,San Augustine
+309,0,0,0,0,0,0,0,1,0,0,0,0,Columbus Community Hospital,29.69375,-96.56013,Colorado
+311,1,2,1,0,0,0,0,0,0,0,0,0,Columbus Oaks Healthcare Community,29.69375,-96.56013,Colorado
+312,0,0,2,0,0,1,1,3,0,0,0,0,Comanche County Medical Center,31.89183,-98.61491,Comanche
+313,0,0,1,3,1,1,2,3,4,1,0,0,Community Care Center,31.2935,-95.49194,Houston
+315,0,0,2,0,0,1,0,0,0,2,2,3,Community Care Center Of Hondo,29.4267,-99.15448,Medina
+317,0,0,0,1,0,0,1,1,0,1,0,0,Concho County Hospital,31.2208,-99.89594,Concho
+318,0,0,0,0,0,1,1,1,1,0,1,1,Concho Health and Rehabilitation Center,31.2208,-99.89594,Concho
+320,6,7,11,16,17,14,14,19,14,7,8,14,Conroe Healthcare Center,30.307920000000006,-95.43426,Montgomery
+321,2,6,6,4,6,3,1,5,5,8,5,4,Continuing Care At Highland Springs,32.99728,-96.79091,Collin
+324,0,0,0,0,0,0,1,1,0,0,0,0,Coon Memorial Hospital,36.10661,-102.61108,Dallam
+328,2,1,0,0,1,1,1,0,0,0,1,1,Copperas Cove Nursing and Rehabilitation,31.21606,-97.97338,Coryell
+329,0,1,0,2,0,0,0,0,0,1,0,0,Copperas Hollow Nursing and Rehabilitation Center,30.53745,-96.67998,Burleson
+330,9,11,8,11,9,5,6,12,15,2,5,6,Copperfield Healthcare and Rehabilitation,29.90819,-95.65323,Harris
+331,5,4,10,10,7,10,6,5,5,10,6,2,Corinth Rehabilitation Suites on the Parkway,33.20883,-97.05736,Denton
+332,1,0,1,2,3,1,2,1,0,1,0,0,Cornerstone Gardens Healthcare and Rehabilitation,31.09622,-97.41034,Bell
+333,1,2,2,3,2,2,1,4,0,2,0,2,Cornerstone Retirement Community,33.51343,-94.13057,Bowie
+334,14,12,15,12,10,9,9,16,13,9,7,4,Coronado at Stone Oak,29.6337,-98.49605,Bexar
+335,0,0,2,1,0,0,1,0,0,0,0,0,Coronado Healthcare Center,35.54207,-100.89977,Gray
+336,1,0,0,0,2,1,0,0,0,0,0,0,Coronado Nursing And Rehab,32.40153,-99.88473,Taylor
+341,0,1,3,2,0,1,2,4,2,1,2,0,Corpus Christi Nursing and Rehabilitation Center,27.6603,-97.36893,Nueces
+342,1,3,4,4,4,4,4,4,4,4,4,5,Corrigan LTC Nursing and Rehabilitation Center,31.01825,-94.79404,Polk
+343,0,0,1,0,0,0,1,0,0,0,0,0,Coryell Memorial Healthcare System,31.42046,-97.76154,Coryell
+344,2,1,4,4,3,4,5,4,3,4,4,5,Cottonwood Creek Healthcare Community,32.97395,-96.74203,Dallas
+346,1,0,0,1,2,0,1,0,0,0,0,0,"Cottonwood Nursing and Rehabilitation, LP",33.22113,-97.14723,Denton
+347,1,2,3,4,1,4,1,0,2,4,5,4,Country Care Manor,29.351470000000006,-98.10722,Wilson
+348,1,0,1,0,0,0,0,0,0,0,1,0,"Country Club Nursing and Rehabilitation, LP",35.20318,-101.89519,Potter
+350,1,2,1,2,4,2,1,2,0,1,0,1,Country Meadows Nursing and Rehabilitation Center,32.086929999999995,-96.52879,Navarro
+353,0,0,0,0,0,2,0,2,0,0,0,0,Country View Nursing And Rehabilitation,32.76168,-96.30018,Kaufman
+354,6,5,8,9,7,8,9,12,3,4,6,10,Country Village Care,29.17431,-95.44987,Brazoria
+355,0,0,1,2,3,6,7,4,1,8,10,7,"Countryside Nursing and Rehabilitation, LP",33.3719,-96.91965,Denton
+357,0,0,0,0,1,0,1,0,1,0,1,1,Courtyard Nursing And Rehabilitation Center,29.686120000000006,-95.30343,Harris
+361,0,0,0,0,0,0,2,0,0,0,0,0,Covenant Hospital Plainview,34.17157,-101.73864,Hale
+363,0,0,0,2,0,1,0,0,0,0,1,0,Crane Memorial Hospital,31.418090000000007,-102.4833,Crane
+365,3,0,0,0,0,0,0,0,0,0,0,0,Creekside Terrace Rehabilitation,31.05136,-97.49967,Bell
+366,0,0,1,0,0,1,0,0,0,0,0,1,Creekside Village Healthcare,29.04936,-95.39242,Brazoria
+367,8,3,11,6,15,12,7,14,5,7,3,3,Crestview Court,32.58039,-96.96618,Dallas
+368,0,0,1,0,1,2,2,3,1,0,0,0,"Crestview Healthcare Residence, Ltd",31.62687,-97.21135,McLennan
+369,7,2,3,3,6,0,1,1,1,2,3,2,Crestview Manor Nursing and Rehabilitation Center,31.05136,-97.49967,Bell
+370,7,2,2,4,2,7,7,4,4,1,2,2,Crestview Retirement Community,30.66126,-96.32265,Brazos
+371,0,1,5,4,1,2,6,2,6,2,0,5,Crestwood Health and Rehab,32.70454,-95.99657,Van Zandt
+372,1,3,2,6,6,4,6,3,2,0,0,0,CRIMSON HEIGHTS HEALTH and WELLNESS,30.00679,-95.29018,Harris
+376,0,0,1,0,0,0,0,0,0,0,0,0,Crosbyton Nursing and Rehabilitation Center,33.65766,-101.18732,Crosby
+378,4,2,8,2,6,7,3,4,6,1,2,2,Cross Timbers Rehabilitation and Healthcare Center,33.0328,-97.06086,Denton
+380,2,1,2,0,0,0,1,3,0,1,2,3,Crossroads Nursing And Rehabilitation,30.86932,-96.51734,Robertson
+381,0,0,1,0,0,0,0,0,0,1,0,1,Crowell Nursing Center,33.89959,-99.77069,Foard
+382,20,19,20,16,17,15,18,15,17,17,17,19,Crown Point Health Suites,33.46993,-101.94095,Lubbock
+383,9,10,12,13,17,16,12,12,7,11,9,9,Crystal Creek Preston Hollow,32.91211,-96.73563,Dallas
+384,2,1,1,5,1,1,1,0,4,2,2,2,Cuero Partners,29.096740000000004,-97.28269,DeWitt
+386,3,1,1,2,1,1,0,0,0,0,0,0,Cypress Creek Rehabilitation and Healthcare Center,29.99104,-95.65878,Harris
+389,1,6,1,3,3,1,0,0,0,0,1,2,Cypress Woods Care Center,29.17431,-95.44987,Brazoria
+390,2,0,0,0,0,0,0,0,0,1,0,0,Cypresswood Health and Rehabilitation Center,29.92218,-95.54705,Harris
+394,4,3,3,5,5,5,5,6,6,7,7,5,Deer Creek of Wimberley Nursing Center,30.03288,-98.1459,Hays
+395,5,7,14,7,20,8,9,7,7,8,7,12,Deerbrook Skilled Nursing And Rehabilitation,30.00679,-95.29018,Harris
+396,0,2,3,1,1,1,0,1,2,2,0,4,"Deerings Nursing and Rehabilitation, LP",31.79918,-102.46788,Ector
+397,3,2,4,2,3,1,0,3,3,3,5,4,Del Rio Nursing and Rehabilitation Center,29.74211,-100.88273,Val Verde
+398,0,5,4,1,2,1,1,1,4,2,0,1,"DeLeon Nursing and Rehabilitation, LP",32.114709999999995,-98.56571,Comanche
+399,0,0,0,2,0,0,0,1,1,1,1,0,"Denison Nursing and Rehabilitation, LP",33.72616,-96.47326,Grayson
+400,9,13,5,8,14,13,7,10,10,4,6,2,Denton Rehabilitation and Nursing Center,33.22113,-97.14723,Denton
+403,0,0,0,0,0,1,1,1,0,0,0,0,Desoto Nursing And Rehabilitation,32.59884,-96.86375,Dallas
+406,0,1,0,1,0,1,0,0,2,5,2,2,Devine Health and Rehabilitation,29.18359,-98.96601,Medina
+407,1,1,1,2,2,2,2,1,1,1,1,2,Dfw Nursing And Rehabilitation,32.7287,-97.31777,Tarrant
+408,1,3,2,2,1,0,0,1,3,2,0,0,Dimmit Regional Hospital,28.46432,-99.92139,Dimmit
+409,2,3,4,5,6,2,3,1,5,3,2,0,Diversicare of Lake Highlands,32.87853,-96.70782,Dallas
+410,0,0,0,2,1,2,1,2,2,3,1,1,Diversicare of Luling,29.69106,-97.6345,Caldwell
+415,0,1,1,2,2,2,3,3,2,3,2,2,Dogwood Trails Manor,30.7763,-94.4015,Tyler
+416,1,0,1,0,0,0,0,0,0,0,0,0,Dovehill Healthcare Center and Villas,31.6858,-98.18813,Hamilton
+417,1,1,2,2,1,1,1,1,1,1,1,1,Downtown Health and Rehabilitation Center,32.7287,-97.31777,Tarrant
+418,2,3,4,2,1,4,5,7,2,2,0,0,Duncanville Healthcare and Rehabilitation Center,32.66017,-96.91393,Dallas
+419,0,0,1,3,1,3,0,0,0,0,2,3,Eagle Lake Nursing And Rehabilitation,29.52568,-96.30213,Colorado
+421,4,4,3,4,1,5,2,3,1,2,2,3,Eagle Pass Nursing and Rehabilitation,28.75206,-100.31076,Maverick
+422,2,1,0,3,1,0,1,3,2,1,2,6,Eagles Trace,29.750120000000006,-95.61547,Harris
+423,0,0,1,1,0,3,4,1,2,2,1,1,Eastland Memorial Hospital,32.40016,-98.80082,Eastland
+424,1,1,0,0,2,0,0,0,0,0,2,1,Eastland Nursing and Rehabilitation,32.40016,-98.80082,Eastland
+426,5,6,4,5,6,4,5,8,8,7,7,5,Ebony Lake Nursing and Rehabilitation Center,25.96396,-97.55009,Cameron
+427,10,5,8,9,9,7,7,6,11,7,9,5,"Eden Home, Inc",29.69772,-98.0702,Comal
+429,2,1,2,0,2,0,2,0,2,0,2,0,Edgewater Care Center,30.03422,-99.15819,Kerr
+430,4,3,4,5,3,2,0,6,1,4,0,1,Edgewood Manor Nursing Home,33.51343,-94.13057,Bowie
+431,1,3,1,5,3,5,2,4,1,2,2,3,Edgewood Rehabilitation and Care Center,32.77003,-96.61487,Dallas
+432,0,0,2,1,1,0,4,1,3,2,1,4,Edinburg Nursing and Rehabilitation Center,26.27915,-98.18321,Hidalgo
+435,0,1,1,1,2,1,0,3,2,1,0,1,El Campo Memorial Hospital,29.213040000000003,-96.28036,Wharton
+436,6,4,9,5,9,7,6,3,5,9,12,8,El Paso Health and Rehabilitation Center,31.77618,-106.29785,El Paso
+437,0,1,0,0,0,2,0,2,1,0,0,0,Electra Healthcare Center,33.96894,-98.96631,Wichita
+438,0,1,1,2,1,1,0,0,0,0,0,0,Electra Memorial Hospital,33.96894,-98.96631,Wichita
+439,2,2,1,4,3,1,2,4,5,4,1,2,Elgin Nursing and Rehabilitation Center,30.3385,-97.36146,Bastrop
+441,0,1,1,0,0,0,0,0,1,0,1,0,Elkhart Oaks Care Center,31.606,-95.5779,Anderson
+443,4,3,2,1,1,4,9,2,1,4,7,6,Emerald Hills Rehabilitation and Healthcare Center,32.83996,-97.22499,Tarrant
+445,0,2,1,2,2,2,1,1,0,2,0,0,Ennis Care Center,32.32976,-96.59334,Ellis
+447,3,0,1,0,2,4,3,2,2,3,2,4,Epic Nursing And Rehabilitation,32.086929999999995,-96.52879,Navarro
+448,2,1,2,2,2,2,3,4,4,3,2,3,Estates Healthcare and Rehabilitation Center,32.64274,-97.33353,Tarrant
+450,0,5,2,4,5,7,4,6,4,4,3,3,Estrella Oaks Rehabilitation And Care Center,30.64109,-97.75111,Williamson
+451,0,0,1,1,0,0,0,0,0,0,0,0,Evergreen Healthcare Center,34.09738,-98.62144,Wichita
+453,2,2,2,2,1,2,4,1,0,1,0,2,Fairfield Nursing and Rehabilitation Center,31.78236,-96.089,Freestone
+454,1,1,1,1,0,1,0,0,1,1,1,0,"Fairview Healthcare Residence, Ltd",31.78236,-96.089,Freestone
+456,0,1,1,1,0,1,0,0,0,0,1,0,Faith Community Hospital,33.21795,-98.1877,Jack
+458,0,1,3,2,4,6,3,4,1,0,0,1,Faith Memorial Nursing Home,29.67951,-95.19977,Harris
+459,0,0,0,0,0,0,0,0,0,0,1,0,Falcon Lake Nursing Home,26.93098,-99.15507,Zapata
+460,2,1,2,2,2,0,2,1,3,2,5,2,Falcon Ridge Rehabilitation,30.55906,-97.54472,Williamson
+461,2,2,1,3,1,3,1,1,0,2,0,2,Falfurrias Nursing And Rehabilitation,27.19012,-98.20251,Brooks
+463,0,0,0,0,0,1,7,8,9,3,4,8,Fall Creek Rehabilitation and Healthcare Center,29.94821,-95.25987,Harris
+464,4,4,5,4,4,3,1,1,1,1,0,0,Fall Creek Rehabilitation And Healthcare Center,29.94821,-95.25987,Harris
+466,3,4,5,4,4,3,2,0,1,2,0,0,Farmersville Health And Rehabilitation,33.17365,-96.35309,Collin
+467,1,1,1,0,1,0,1,0,1,0,1,0,Farwell Care and Rehabilitation Center,34.41493,-102.94,Parmer
+468,0,1,1,0,1,2,1,0,0,1,1,1,Fireside Lodge Healthcare Center,32.77444000000001,-97.40272,Tarrant
+471,2,0,2,0,0,0,1,1,1,0,0,0,Flatonia Oak Manor Rehabilitation and Nursing Center,29.74273,-97.15231,Fayette
+472,1,4,1,2,1,2,0,0,0,1,2,3,Floresville Nursing and Rehabilitation Center,29.11822,-98.2018,Wilson
+474,2,4,3,1,2,2,2,1,0,0,0,0,Focus Care at Baytown,29.73897,-94.9983,Harris
+475,0,2,0,4,0,1,0,2,0,1,1,1,Focus Care at Linden,33.00609,-94.38963,Cass
+476,3,3,4,6,8,5,2,3,2,1,3,2,Focus Care Gilmer,32.7951,-94.99552,Upshur
+477,2,3,2,3,1,2,4,3,0,0,1,0,Focused Care At Allenbrook,29.79849,-94.96589,Harris
+478,1,1,0,2,0,0,0,0,1,0,2,0,Focused Care At Baytown,29.73897,-94.9983,Harris
+479,4,6,5,4,2,1,2,6,13,12,10,7,Focused Care at Burnet Bay,29.79849,-94.96589,Harris
+480,1,4,5,6,0,1,1,2,6,5,8,9,Focused Care at Cedar Bayou,29.79849,-94.96589,Harris
+481,2,0,1,0,1,1,3,0,2,8,9,10,Focused Care At Clarksville,33.655390000000004,-95.00488,Red River
+482,0,0,0,0,0,0,0,1,2,1,1,3,Focused Care at Corpus,27.795,-97.44693,Nueces
+483,0,0,1,0,0,2,0,1,1,1,1,1,Focused Care At Fort Stockton,30.74292,-102.78315,Pecos
+484,0,0,3,1,1,0,0,2,1,1,1,0,FOCUSED CARE AT HUNTSVILLE,30.643690000000007,-95.53981,Walker
+485,1,0,4,2,1,1,1,1,1,2,1,2,Focused Care At Huntsville,30.643690000000007,-95.53981,Walker
+486,0,1,1,1,2,1,0,0,2,0,0,0,Focused Care At Lamesa,32.69327,-102.01053,Dawson
+487,0,0,0,0,1,1,0,0,0,0,0,0,Focused Care At Midland,32.051140000000004,-102.05955,Midland
+488,4,2,2,1,0,1,0,1,0,0,0,0,Focused Care at Mount Pleasant,33.21697,-94.97819,Titus
+489,1,0,1,0,0,2,3,3,4,2,3,2,Focused Care At Odessa,31.79918,-102.46788,Ector
+490,1,5,3,2,2,3,1,2,2,3,1,4,Focused Care at Orange,30.0711,-93.86461,Orange
+491,5,4,6,4,7,5,8,9,9,9,13,10,Focused Care at Pasadena,29.64802,-95.18998,Harris
+492,0,0,0,0,0,0,0,1,1,0,0,0,Focused Care At Pecos,31.425390000000004,-103.62296,Reeves
+493,1,1,2,2,0,0,1,0,1,1,1,1,Focused Care at Sherman,33.64891,-96.70004,Grayson
+494,4,2,6,5,8,5,2,3,2,1,0,0,Focused Care at Summer Place,30.05295,-94.17654,Jefferson
+495,1,4,1,0,1,0,0,0,1,0,0,0,Focused Care At Waxahachie,32.36912,-96.79744,Ellis
+496,1,4,3,5,4,2,2,0,1,1,1,2,Focused Care at Webster,29.53781,-95.13687,Harris
+497,3,4,5,4,5,2,2,4,6,4,1,2,Focused Care at Westwood,29.67076,-95.58512,Harris
+498,2,3,2,6,6,3,2,5,6,3,4,2,Focused Care Of Center,31.73268,-94.20157,Shelby
+501,0,3,0,4,4,2,3,1,2,1,2,1,Fort Bend Healthcare Center,29.54596,-95.86816,Fort Bend
+505,7,11,18,10,18,16,12,14,6,6,5,6,Fort Worth Transitional Care Center,32.7287,-97.31777,Tarrant
+506,2,3,5,3,2,2,3,1,0,1,2,6,Fort Worth Wellness And Rehabilitation,32.77444000000001,-97.40272,Tarrant
+507,1,0,0,0,0,1,0,0,1,1,1,1,"Fortress Health and Rehab of Rock Prairie, LLC",30.56255,-96.27564,Brazos
+508,4,10,8,3,4,3,6,5,4,1,1,0,Forum Parkway Health and Rehabilitation,32.85231,-97.13119,Tarrant
+509,0,3,1,2,1,1,1,4,5,7,6,4,Founders Plaza Nursing and Rehabilitation,33.01189,-96.53479,Collin
+510,17,18,11,18,13,21,18,20,17,18,20,22,FOX HOLLOW POST ACUTE,25.99101,-97.43946,Cameron
+511,1,1,1,0,0,0,0,0,0,0,0,0,Frank M Tejeda Texas State Veterans Home,29.11822,-98.2018,Wilson
+512,3,2,2,2,1,1,2,5,2,4,3,2,Franklin Heights Nursing and Rehabilitation Center,31.84821,-106.53264,El Paso
+513,2,0,1,0,0,0,0,1,2,1,0,1,Franklin Nursing Home,31.07333,-96.42385,Robertson
+515,1,1,2,0,2,1,1,0,1,0,1,0,Fredericksburg Nursing And Rehabilitation,30.28151,-98.87712,Gillespie
+516,7,10,11,15,15,17,13,20,19,20,15,16,Friendship Haven Healthcare and Rehabilitation Center,29.51492,-95.19219,Galveston
+518,2,1,2,2,0,0,0,0,0,1,1,1,Frio Regional Hospital,28.90171,-99.14689,Frio
+519,1,0,6,2,2,2,0,0,0,1,3,5,Gainesville Health and Rehabilitation Center,33.65629000000001,-97.17453,Cooke
+520,0,0,2,4,2,2,2,1,1,3,1,2,Galleria Residence and Rehabilitation Center,29.73555,-95.52161,Harris
+521,0,0,0,2,2,0,2,2,0,0,1,1,Ganado Nursing And Rehabilitation Center,29.02263,-96.48946,Jackson
+522,6,3,5,3,6,12,7,12,4,5,3,3,Garden Terrace At Fort Worth,32.667590000000004,-97.41797,Tarrant
+523,18,18,22,14,19,17,14,15,21,15,14,14,Garden Terrace At Houston,29.68088,-95.40493,Harris
+524,2,1,2,2,0,2,1,1,1,1,1,0,Garden Terrace Healthcare Center,33.0626,-98.62573,Young
+525,4,0,0,3,3,2,1,3,1,0,0,0,Garden Villa Nursing Home,29.213040000000003,-96.28036,Wharton
+526,0,0,0,1,1,1,1,1,0,0,0,0,Gardendale Rehabilitation and Nursing Center,31.9462,-95.25704,Cherokee
+527,4,0,4,1,2,0,2,1,2,0,1,0,Garland Nursing and Rehabilitation,32.9139,-96.67493,Dallas
+528,8,8,10,15,22,16,15,15,9,7,3,4,Garnet Hill Rehabilitation and Skilled Care,33.01189,-96.53479,Collin
+529,2,6,5,5,6,7,3,9,11,9,7,6,Garrison Geriatric Education And Care Center,33.697540000000004,-101.90482,Lubbock
+530,10,11,8,12,9,7,4,9,3,4,7,8,Garrison Nursing Home and Rehabilitation Center,31.8136,-94.5254,Nacogdoches
+532,4,1,2,1,0,1,0,1,1,0,0,0,Gazebo Terrace Convalescent Center,30.21068,-96.40706,Washington
+536,1,1,0,1,0,1,1,4,4,2,2,1,Georgia Manor Nursing Home,35.14901,-101.87111,Randall
+538,1,0,0,0,0,1,0,1,1,1,1,1,Giddings Residence and Rehabilitation Center,30.16902,-96.92221,Lee
+539,2,0,1,2,3,1,1,2,0,1,1,4,"Gilmer Nursing and Rehabilitation, LP",32.7951,-94.99552,Upshur
+542,8,5,5,8,5,4,3,6,6,3,3,3,Glen Rose Nursing and Rehab Center,32.20528,-97.79713,Somervell
+543,16,11,10,9,7,10,16,5,7,12,4,14,Glenview Wellness and Rehab,32.83996,-97.22499,Tarrant
+544,0,1,2,2,0,4,4,3,1,4,1,1,Golden Acres Living and Rehabilitation Center,32.82444,-96.67995,Dallas
+545,0,0,0,2,3,1,1,1,0,0,0,1,Golden Age Healthcare Residence,32.07521,-98.34946,Erath
+547,2,2,1,1,0,1,2,1,0,0,1,1,Golden Creek Healthcare and Rehabilitation Center,30.3686,-96.0616,Grimes
+548,0,1,3,1,2,3,6,1,3,2,4,3,Golden Estates Rehabilitation Center,29.46876,-98.52824,Bexar
+549,3,11,15,12,16,13,18,16,22,19,17,16,Golden Palms Health Center,26.25668,-97.66671,Cameron
+550,0,0,0,1,0,0,0,0,0,0,0,0,Golden Plains Community Hospital,35.69979,-101.39788,Hutchinson
+551,9,6,8,8,16,9,9,11,5,8,7,6,Golden Villa Nursing Home,33.115559999999995,-94.20197,Cass
+552,1,1,0,2,2,1,0,1,1,0,0,0,Golden Years Nursing and Rehabilitation Center,31.31864,-96.84932,Falls
+555,3,1,2,0,4,0,0,0,0,0,1,1,Gonzales Memorial Hospital,29.47721,-97.45171,Gonzales
+556,12,11,11,19,17,11,14,15,8,4,10,7,Good Samaritan Society Denton Village,33.22113,-97.14723,Denton
+557,4,5,4,7,9,5,9,7,1,3,5,5,Good Samaritan Society Lake Forest Village,33.15036,-97.096,Denton
+558,11,8,12,12,13,10,7,8,5,8,6,12,Good Samaritan Society White Acres,31.84821,-106.53264,El Paso
+560,0,1,0,2,2,2,3,4,1,1,0,0,Goodall Witcher Hospital,31.80782,-97.56147,Bosque
+561,2,2,1,0,0,0,0,0,0,0,0,0,Goodall Witcher Nursing Facility Swing Bed,31.80782,-97.56147,Bosque
+564,9,10,6,11,14,13,10,9,12,21,14,22,Grace Care Center at Northpointe,30.06135,-95.68202,Harris
+565,10,7,5,10,7,3,3,3,10,9,12,5,Grace Care Center of Cypress,29.90819,-95.65323,Harris
+566,0,0,0,0,1,1,0,0,0,1,0,0,Grace Care Center of Henrietta,33.75812,-98.20162,Clay
+568,0,0,2,1,1,0,1,0,0,0,0,0,Grace Hill Nursing and Rehabilitation,33.00551,-94.59071,Cass
+569,5,2,3,6,4,6,6,8,3,6,4,2,GRACE POINTE WELLNESS CENTER,31.78412,-106.4979,El Paso
+570,7,7,12,15,5,10,11,15,4,1,3,8,Grace Presbyterian Village,32.71162,-96.78369,Dallas
+571,0,2,0,0,3,0,1,1,1,0,2,2,Gracy Woods 2 Nursing Center,30.38799,-97.70684,Travis
+572,2,5,3,2,5,2,2,2,3,5,2,4,Gracy Woods Nursing Center 1,30.38799,-97.70684,Travis
+573,1,1,0,2,3,0,2,4,1,0,1,0,Graham Oaks Care Center,33.0626,-98.62573,Young
+574,0,0,0,0,0,0,1,0,0,0,0,0,Graham Regional Medical Center,33.0626,-98.62573,Young
+575,5,3,5,4,3,7,14,8,15,12,14,18,Granbury Care Center,32.42318,-97.80877,Hood
+576,3,4,3,7,8,7,4,6,5,7,5,6,Granbury Villa Nursing Center,32.42318,-97.80877,Hood
+577,4,4,1,6,4,4,9,2,6,5,7,7,Grand Terrace Rehabilitation And Health Care,26.21583,-98.23917,Hidalgo
+578,5,6,2,2,4,5,2,7,1,2,0,2,Grandview Nursing And Rehabilitation Center,32.27536,-97.16601,Johnson
+580,7,3,3,3,5,3,4,4,4,6,2,1,Granite Mesa Health Center,30.572340000000004,-98.20729,Burnet
+581,4,4,8,7,5,6,4,7,3,1,1,1,Grapevine Medical Lodge,32.92498,-97.07177,Tarrant
+582,1,0,3,2,1,1,1,1,1,1,1,1,Grayson Square Health Care Center,29.43985,-98.45861,Bexar
+583,0,0,0,0,0,1,3,0,0,1,1,0,Great Plains Nursing and Rehabilitation,35.89512,-102.02432,Moore
+584,9,3,5,4,3,4,5,7,3,3,1,3,Green Valley Healthcare and Rehabilitation Center,32.868109999999994,-97.25197,Tarrant
+585,0,3,3,2,0,0,1,2,0,1,0,0,Greenbrier Nursing and Rehabilitation Center,31.87441,-95.66914,Anderson
+586,1,2,2,1,2,0,0,3,0,0,0,0,Greenbrier Nursing and Rehabilitation Center of Tyler,32.36285,-95.31526,Smith
+587,0,1,0,0,0,0,3,2,1,0,0,0,Greenhill Villas of Mount Pleasant,33.21697,-94.97819,Titus
+589,2,3,0,2,3,2,1,1,1,1,0,3,Greenview Manor,31.53875,-97.19525,McLennan
+590,1,2,0,0,1,2,0,0,1,0,0,0,Greenville Gardens,33.184259999999995,-96.11951,Hunt
+591,2,4,4,1,10,6,6,8,3,4,2,3,Greenville Health And Rehab Center,33.06878,-96.08534,Hunt
+592,1,1,3,2,0,1,1,1,1,0,0,0,Groesbeck LTC Nursing and Rehabilitation,31.50133,-96.51758,Limestone
+593,1,1,0,2,1,1,1,0,1,0,1,1,Groveton Nursing Home and Assisted Living,31.10075,-95.08953,Trinity
+594,0,0,1,1,1,1,0,3,3,2,1,3,Guadalupe Valley Nursing And Rehabilitation Center,29.5334,-97.93886,Guadalupe
+597,6,6,3,3,4,3,4,4,6,5,6,3,Gulf Healthcare Center Galveston,29.24558,-94.92353,Galveston
+598,1,1,0,0,0,0,0,0,0,0,0,0,Gulf Healthcare Center Port Arthur,29.93921,-93.91601,Jefferson
+599,1,3,2,1,2,0,0,5,3,4,1,2,Gulf Pointe Plaza,28.143890000000006,-97.05081,Aransas
+601,0,0,1,0,1,0,0,0,1,0,1,2,Hacienda Oaks at Beeville,28.40248,-97.71085,Bee
+602,1,1,2,0,0,0,0,0,1,0,0,0,Hacienda Oaks Nursing and Rehabilitation Center,29.5334,-97.93886,Guadalupe
+605,1,1,0,0,0,0,0,2,0,0,0,0,Hallettsville Nursing And Rehabilitation Center,29.377,-96.84377,Lavaca
+606,0,1,0,2,0,2,0,1,0,0,1,1,Hamilton General Hospital,31.6858,-98.18813,Hamilton
+608,4,1,0,1,0,0,1,2,0,0,0,0,Hamilton Healthcare Center,31.6858,-98.18813,Hamilton
+609,0,0,0,0,1,3,2,1,1,4,1,3,Hamilton Hospital,33.35974,-98.73818,Young
+611,0,0,0,0,0,0,0,0,1,0,0,0,Hamlin Memorial Hospital,32.8649,-100.13233,Jones
+612,1,0,0,1,0,0,0,0,0,0,0,0,Hansford County Hospital District,36.2301,-101.21809,Hansford
+613,1,0,0,0,0,0,0,0,0,0,0,0,Hansford Manor,36.2301,-101.21809,Hansford
+618,2,6,5,4,3,1,4,4,2,1,3,2,Harlingen Nursing and Rehabilitation Center,26.25668,-97.66671,Cameron
+622,0,0,0,1,0,0,2,1,0,1,0,1,Haskell Healthcare Center,33.12233,-99.65411,Haskell
+623,0,0,1,2,0,0,0,0,0,1,0,0,Haskell Memorial Hospital,33.12233,-99.65411,Haskell
+624,1,1,1,1,0,2,0,0,0,2,3,5,Haven Care Nursing and Rehabilitation Center,32.58258,-94.72065,Gregg
+625,2,1,1,0,0,1,0,0,0,3,0,2,Hays Nursing and Rehabilitation Center,29.87958,-97.96642,Guadalupe
+631,1,0,2,3,0,1,1,0,0,0,0,1,Hearthstone Health Center,30.53345,-97.72475,Williamson
+633,2,1,2,3,4,1,0,1,1,1,1,0,Hemphill Care Center,31.30812,-93.77894,Sabine
+635,9,3,2,4,6,2,1,9,3,5,2,8,Henderson Health and Rehabilitation Center,32.229890000000005,-94.73272,Rusk
+638,0,0,0,1,2,1,1,0,0,1,0,0,Hereford Nursing and Rehabilitation Center,34.91238,-102.559,Deaf Smith
+640,1,2,2,1,1,4,2,6,2,2,2,1,Heritage at Longview Healthcare and Rehabilitation,32.58258,-94.72065,Gregg
+641,1,1,2,2,0,5,2,6,4,1,2,1,Heritage at Turner Park,32.77409,-97.00533,Dallas
+642,3,1,2,3,2,0,1,2,0,3,6,3,Heritage Convalescent Center,35.20318,-101.89519,Potter
+643,0,0,1,2,1,3,1,0,0,0,0,0,Heritage Gardens Healthcare Center,32.96188,-96.89701,Dallas
+645,0,0,0,1,0,1,2,0,1,1,0,0,Heritage House Nursing and Rehabilitation,31.08166,-96.93866,Falls
+646,3,2,3,5,0,1,4,3,2,4,4,3,Heritage House of Keller,32.925740000000005,-97.22899,Tarrant
+647,7,8,6,10,10,12,4,5,0,3,2,1,Heritage House of Marshall Healthcare and Rehabilitation Center,32.46883,-94.29489,Harrison
+648,7,3,5,12,10,7,6,7,4,5,6,6,Heritage House Of Paris,33.62385,-95.48378,Lamar
+651,0,0,0,2,3,0,1,1,1,2,1,2,Heritage Nursing and Rehabilitation,29.4915,-98.4011,Bexar
+652,1,1,2,2,2,1,2,2,1,1,3,6,Heritage Oaks Nursing and Rehabilitation Center,33.54623,-101.88729,Lubbock
+653,0,2,2,3,5,4,7,5,3,4,0,3,Heritage Oaks Residence and Rehabilitation Center,32.75425,-97.08254,Tarrant
+655,1,1,1,0,1,5,3,1,2,2,1,2,Heritage Oaks West Retirement Village,32.086929999999995,-96.52879,Navarro
+656,1,1,0,1,0,1,2,0,0,0,0,0,Heritage Park of Katy Nursing and Rehabilitation,29.85208,-95.83094,Harris
+657,0,1,1,1,0,0,1,0,0,1,0,0,Heritage Park Rehabilitation and Skilled Nursing Center,30.28997,-97.71465,Travis
+659,5,6,8,9,4,2,5,9,0,1,4,3,Heritage Plaza Nursing Center,33.51343,-94.13057,Bowie
+661,3,1,3,6,6,5,5,5,3,5,4,5,Heritage Trails Nursing and Rehabilitation Center,32.28511,-97.51137,Johnson
+662,1,2,2,2,1,1,0,0,1,1,1,2,Heritage Villa Nursing and Rehabilitation,30.05701,-94.91785,Liberty
+663,4,2,1,2,0,1,1,1,1,0,0,0,Hico Nursing and Rehabilitation Center,31.952,-98.02941,Hamilton
+665,0,1,1,0,0,1,1,0,0,1,0,0,High Hope Care Center of Brenham,30.21068,-96.40706,Washington
+667,19,6,17,13,13,2,7,3,7,5,6,3,Highland Meadows Health and Rehab,32.85504,-96.42764,Rockwall
+668,0,0,0,0,1,7,6,6,0,0,0,0,Highland Meadows Health and Rehabilitation,32.85504,-96.42764,Rockwall
+670,3,4,6,2,1,1,3,0,0,0,1,2,Highland Park Care Center,29.83057,-95.37698,Harris
+671,11,7,13,8,14,16,12,14,7,5,5,8,Highland Pines Nursing Home and Rehab Center,32.50854,-94.72407,Gregg
+673,1,0,0,0,0,0,0,1,0,0,0,2,Hill Country Care Healthcare and Rehabilitation,30.218940000000003,-98.12895,Hays
+676,3,3,2,2,4,4,3,1,2,2,1,1,Hill Country Rehabilitation and Nursing Center,31.21606,-97.97338,Coryell
+677,2,1,2,0,0,1,0,0,0,0,0,0,Hill Regional Hospital,32.02172,-97.1336,Hill
+679,2,0,2,0,6,3,0,0,3,4,9,2,Hillside Heights Rehabilitation Suites,35.1103,-102.01664,Randall
+680,4,0,1,0,3,1,5,2,2,2,1,6,Hillside Medical Lodge,31.42046,-97.76154,Coryell
+682,2,6,8,5,12,8,6,10,11,9,9,8,Hilltop Park Rehabilitation and Care Center,32.75481,-97.78995,Parker
+683,11,8,11,11,11,9,11,10,11,9,12,11,Hilltop Village Nursing and Rehabilitation Center,30.03422,-99.15819,Kerr
+684,0,0,0,2,1,1,0,0,1,0,0,0,Hillview Manor Nursing And Rehabilitation Center,31.43787,-98.50904,Mills
+685,0,0,0,0,1,0,0,0,1,0,0,0,Hogan Clark Nursing and Rehabilitation Center,32.051140000000004,-102.05955,Midland
+686,0,1,0,0,0,1,0,2,2,3,0,1,"Holiday Hill, Inc",31.874370000000006,-99.47038,Coleman
+687,2,4,2,5,2,4,3,4,0,1,2,3,Holiday Nursing And Rehabilitation,31.73268,-94.20157,Shelby
+689,7,6,11,5,8,10,6,4,7,9,12,9,Holly Hall,29.68088,-95.40493,Harris
+690,13,17,7,16,13,16,9,13,5,6,4,7,Hollymead,33.0328,-97.06086,Denton
+692,0,0,0,0,0,1,0,0,2,1,1,0,Homestead Nursing And Rehabilitation Of Baird,32.32056,-99.35231,Callahan
+693,2,0,1,0,1,0,1,1,0,1,1,1,"Homestead Nursing and Rehabilitation of Collinsville, LLC",33.53626,-96.90828,Grayson
+695,0,0,1,0,0,2,2,1,1,1,0,1,"Homestead Nursing and Rehabilitation of Hillsboro, LLC",32.02172,-97.1336,Hill
+696,2,1,0,0,0,1,0,0,0,1,0,0,"Homestead Nursing and Rehabilitation of Itasca, LLC",32.16217,-97.15511,Hill
+698,0,1,0,0,0,0,0,0,1,1,1,1,Hondo Nursing and Rehabilitation,29.4267,-99.15448,Medina
+699,0,0,0,0,3,3,3,1,2,4,1,2,Honey Grove Nursing Center,33.61208,-95.89414,Fannin
+702,2,0,1,0,0,0,0,0,0,0,0,1,Houston County Nursing Home,31.2935,-95.49194,Houston
+705,5,3,1,1,2,1,0,0,1,1,0,0,Houston Methodist Hospital,29.706290000000006,-95.4026,Harris
+708,1,1,1,1,3,4,3,2,0,1,0,3,HOUSTON TRANSITIONAL CARE,29.68802,-95.51627,Harris
+709,14,6,14,10,2,3,0,4,6,5,4,2,Huebner Creek Health and Rehabilitation Center,29.52465,-98.60749,Bexar
+711,0,0,3,1,0,2,4,1,0,0,4,1,Humble Healthcare Center,30.00679,-95.29018,Harris
+715,2,3,2,1,2,1,2,4,1,1,1,1,Huntington Healthcare And Rehabilitation,31.23143,-94.51943,Angelina
+716,2,7,2,3,5,4,2,1,0,0,4,4,Huntsville Healthcare Center,30.643690000000007,-95.53981,Walker
+718,2,1,1,2,0,0,0,0,0,2,1,1,Hurst Plaza Nursing and Rehabilitation,32.8171,-97.17951,Tarrant
+722,2,1,2,1,2,1,2,1,1,1,1,1,Immanuels Healthcare,32.69064,-97.26215,Tarrant
+723,1,0,0,0,0,0,0,1,0,0,0,0,Indian Oaks Living Center,31.05081,-97.64587,Bell
+724,2,5,6,7,4,1,2,1,2,1,0,1,Inspiration Hills Rehabilitation Center,29.46095,-98.57201,Bexar
+726,5,1,0,3,1,1,1,1,0,0,1,1,Interlochen Health and Rehabilitation Center,32.75461,-97.13902,Tarrant
+727,0,0,0,0,0,1,0,0,0,0,0,0,Iowa Park Healthcare Center,33.97433,-98.72274,Wichita
+730,0,0,0,0,1,1,1,0,0,0,0,0,"Irving Nursing and Rehabilitation, LP",32.82602,-96.96544,Dallas
+734,0,1,2,4,3,1,2,4,2,2,3,3,Jacinto City Healthcare Center,29.76277,-95.26243,Harris
+735,1,0,1,0,2,2,0,1,0,1,0,0,Jackson County Hospital,29.03768,-96.70042,Jackson
+736,0,0,0,0,0,1,0,0,0,0,0,0,Jacksonville Healthcare Center,31.9462,-95.25704,Cherokee
+739,2,4,4,3,3,5,4,2,0,0,0,0,Jefferson Nursing and Rehabilitation Center,30.09973,-94.17074,Jefferson
+740,2,2,5,3,1,2,1,2,1,7,5,4,Jeffrey Place Healthcare Center,31.53875,-97.19525,McLennan
+746,0,2,0,1,1,1,0,0,2,0,0,2,Kaufman Healthcare Center,32.57358,-96.24717,Kaufman
+747,4,1,1,1,2,3,2,3,2,4,3,3,"Keeneland Nursing and Rehabilitation, LP",32.75481,-97.78995,Parker
+748,4,3,1,5,10,6,7,8,5,5,2,2,Keller Oaks Healthcare Center,32.925740000000005,-97.22899,Tarrant
+749,0,0,0,0,0,0,0,0,1,1,0,0,Kemp Care,32.36358,-96.24817,Henderson
+750,0,1,5,3,3,1,3,3,1,3,0,2,Kendall House Wellness and Rehabilitation,29.85533,-98.72266,Kendall
+752,3,1,4,3,4,2,5,3,7,4,4,3,Kennedy Health And Rehab,31.33969,-94.82173,Angelina
+754,1,0,0,0,0,0,0,0,0,0,0,0,Kerens Care Center,32.11312,-96.20884,Navarro
+756,1,0,1,0,1,0,1,0,1,0,1,0,Kerrville Va Medical Center Swing Bed,30.03422,-99.15819,Kerr
+757,0,0,0,2,0,0,1,1,3,2,2,2,Kilgore Health and Rehabilitation,32.383990000000004,-94.87015,Gregg
+759,3,0,3,1,5,0,3,0,3,0,3,0,Kimble Hospital,30.48896,-99.79705,Kimble
+763,0,0,0,0,3,1,0,0,1,1,0,1,Kings Manor Methodist Home,34.91238,-102.559,Deaf Smith
+764,8,2,3,1,2,2,3,0,3,0,1,5,Kingsland Hills Care Center,30.66282,-98.44043,Llano
+765,3,7,3,4,2,5,2,5,3,2,5,6,Kingsville Nursing and Rehabilitation Center,27.44952,-97.86266,Kleberg
+766,1,0,1,0,0,1,0,0,0,0,0,0,Kirkland Court Health and Rehabilitation,35.20318,-101.89519,Potter
+767,5,5,7,9,8,4,6,9,7,4,10,11,Kirkwood Manor Nursing and Rehab Center,29.69772,-98.0702,Comal
+768,0,0,1,2,2,0,0,0,3,1,1,2,"Kleberg County Nursing and Rehabilitation, LP",27.44952,-97.86266,Kleberg
+770,0,3,0,2,0,2,0,2,0,2,0,2,Knopp Healthcare and Rehabilitation,30.28151,-98.87712,Gillespie
+772,3,1,3,1,3,1,3,1,3,1,3,1,Knopp Nursing and Rehabilitation,30.28151,-98.87712,Gillespie
+774,1,1,1,1,3,2,0,1,1,0,0,0,Kountze Nursing Center,30.37576,-94.37901,Hardin
+775,3,2,3,5,3,5,3,5,3,1,2,3,Kruse Village,30.21068,-96.40706,Washington
+776,0,0,0,0,0,0,1,0,1,0,0,2,La Bahia Nursing And Rehabilitation,28.657020000000006,-97.41547,Goliad
+777,0,0,0,3,4,4,4,1,1,1,1,2,La Dora Nursing and Rehab Center,32.85231,-97.13119,Tarrant
+781,9,2,6,5,2,2,2,2,3,4,4,8,La Vida Serena Nursing and Rehabilitation,29.74211,-100.88273,Val Verde
+785,0,0,0,0,0,1,0,1,0,1,0,0,Lake Jackson Healthcare Center,29.05023,-95.47549,Brazoria
+786,1,0,2,0,1,0,1,0,1,1,0,1,"Lake Lodge Nursing and Rehabilitation, LP",32.83435,-97.46485,Tarrant
+788,4,4,4,9,5,5,11,7,3,4,7,7,Lake Village Nursing and Rehabilitation Center,33.04952,-96.98383,Denton
+789,0,1,1,0,0,0,0,0,0,1,0,0,Lake Worth Nursing and Rehabilitation,32.83435,-97.46485,Tarrant
+790,1,0,1,0,1,0,1,1,2,0,2,0,"Lakeridge LTC Partners, Inc",33.46993,-101.94095,Lubbock
+791,2,0,0,2,0,0,1,0,0,0,1,0,Lakeshore Village Healthcare Center,31.62687,-97.21135,McLennan
+792,1,3,4,2,0,2,0,1,0,1,0,1,Lakeside Nursing And Rehabilitation Center,29.40396,-98.73079,Bexar
+793,3,1,2,1,1,3,1,3,3,2,0,0,Lakeside Rehabilitation and Care Center,33.56969,-101.89127,Lubbock
+794,2,1,1,3,4,3,2,3,3,2,3,6,Lakewest Rehabilitation And Healthcare Center,32.78137,-96.87917,Dallas
+796,0,0,0,1,0,1,1,0,0,0,0,1,Lamb Healthcare Center,33.88987,-102.33544,Lamb
+798,2,1,5,2,2,1,2,1,0,0,0,2,Lampasas Nursing And Rehabilitation Center,31.08754,-98.22873,Lampasas
+799,2,0,3,1,3,4,3,1,2,1,2,6,Lampstand Nursing And Rehabilitation,30.66126,-96.32265,Brazos
+800,0,0,0,0,0,0,0,0,1,0,0,0,Lamun-Lusk-Sanchez Texas State Veterans Home,32.253640000000004,-101.47291,Howard
+802,0,0,2,0,3,2,1,1,1,1,1,0,Landmark At Plano,33.021370000000005,-96.74102,Collin
+803,1,0,2,0,0,1,0,1,1,2,2,1,Landmark Of Amarillo,35.26275,-101.9691,Potter
+804,3,6,10,10,19,10,9,6,3,4,0,0,LANDMARK OF PLANO REHABILITATION AND NURSING CENTER LLC,33.021370000000005,-96.74102,Collin
+805,0,0,1,3,5,4,5,1,2,5,4,4,Laporte Healthcare Center,29.690490000000004,-95.05358,Harris
+806,2,3,3,2,4,4,3,3,1,2,1,1,Laredo Medical Center,27.554170000000006,-99.46337,Webb
+807,3,5,1,2,2,4,2,2,3,1,0,0,Laredo Nursing and Rehabilitation Center,27.554170000000006,-99.46337,Webb
+810,12,12,8,15,10,12,26,21,9,13,9,15,Larkspur Transitional Care,31.33969,-94.82173,Angelina
+812,0,1,1,1,1,0,0,0,0,0,0,0,Las Brisas Rehabilitation and Wellness Suites,32.87458,-96.99758,Dallas
+813,0,1,3,7,8,3,6,8,6,3,2,2,Las Colinas of Westover,29.46217,-98.67597,Bexar
+815,4,3,7,7,7,4,7,5,13,7,7,12,Las Palmas Nursing and Rehabilitation Center,26.16531,-98.24764,Hidalgo
+816,0,0,0,0,0,1,1,0,1,1,0,0,Las Palmas Skilled Nursing and Rehabilitation,28.36133,-99.14499,La Salle
+817,4,6,12,10,8,4,7,10,8,10,2,6,LAS VENTANAS DE SOCORRO,31.64455,-106.27373,El Paso
+818,11,9,15,13,11,16,9,7,8,7,8,7,Laurel Court,29.38147,-95.24205,Brazoria
+819,4,4,4,2,1,3,3,2,0,0,0,1,Laurenwood Nursing and Rehabilitation,32.66017,-96.91393,Dallas
+820,1,0,0,1,1,0,0,0,0,0,0,0,Lavaca Hospital District,29.377,-96.84377,Lavaca
+821,8,4,6,4,7,6,4,12,8,8,7,12,Lawrence Street Healthcare Center,30.09543,-95.58939,Harris
+825,1,0,0,1,1,0,0,1,2,2,0,0,Legacy at Jacksonville,31.9462,-95.25704,Cherokee
+826,3,4,1,0,2,0,1,0,1,2,0,0,Legacy Nursing And Rehabilitation,30.66126,-96.32265,Brazos
+827,4,8,6,3,3,6,4,5,2,6,2,5,Legacy Rehabilitation and Living,35.16631,-101.88646,Randall
+828,4,3,3,3,2,1,4,3,0,1,0,1,Legend Healthcare and Rehabilitation Euless,32.8147,-97.09677,Tarrant
+829,16,12,13,11,11,7,9,12,4,2,4,8,Legend Healthcare and Rehabilitation Greenville,33.06878,-96.08534,Hunt
+830,3,4,6,4,6,5,3,4,7,5,3,6,Legend Healthcare and Rehabilitation Paris,33.65811,-95.60422,Lamar
+831,2,9,6,9,3,3,11,10,5,6,5,7,Legend Oaks Healthcare And Rehabilitation,29.69772,-98.0702,Comal
+833,2,1,4,1,3,3,2,4,1,1,7,5,Legend Oaks Healthcare and Rehabilitation Center,29.92218,-95.54705,Harris
+834,1,2,5,3,4,3,2,1,1,2,1,3,Legend Oaks Healthcare and Rehabilitation Center,29.29428,-98.53945,Bexar
+835,5,8,7,8,8,11,6,7,1,1,0,2,Legend Oaks Healthcare and Rehabilitation Ennis,32.32976,-96.59334,Ellis
+836,1,5,6,5,4,5,2,4,1,1,0,1,Legend Oaks Healthcare and Rehabilitation Garland,32.96264,-96.65323,Dallas
+837,1,1,0,3,2,1,0,0,0,0,0,0,Legend Oaks Healthcare and Rehabilitation- Garland,32.96264,-96.65323,Dallas
+838,0,1,3,1,5,3,4,1,0,0,1,0,Legend Oaks Healthcare and Rehabilitation Gladewater,32.5189,-94.95133,Smith
+840,9,7,14,13,9,16,17,7,15,13,11,11,Legend Oaks Healthcare and Rehabilitation of East Houston,29.83413,-95.14734,Harris
+841,4,8,5,7,6,3,2,4,4,2,1,2,Legend Oaks Healthcare And Rehabilitation Of Fort Worth,32.93098,-97.28435,Tarrant
+842,1,0,1,2,0,0,0,0,0,0,2,5,Legend Oaks Healthcare And Rehabilitation Of North Houston,29.97776,-95.57315,Harris
+843,11,6,9,5,1,6,5,6,3,2,2,1,Legend Oaks Healthcare And Rehabilitation Waxahachie,32.36912,-96.79744,Ellis
+844,1,0,2,0,2,0,2,1,2,1,1,0,Legend Oaks Healthcare and Rehabilitation West San Antonio,29.40626,-98.62941,Bexar
+845,9,10,8,0,1,3,4,3,1,2,3,4,Legend Oaks Rehabilitation And Healthcare Of Kyle,29.99495,-97.82813,Hays
+848,0,0,0,0,0,0,0,0,1,1,1,1,Leonard Manor,33.39324000000001,-96.24331,Fannin
+849,1,1,1,0,1,1,1,1,2,4,3,2,Levelland Nursing and Rehabilitation Center,33.60538,-102.40278,Hockley
+850,5,8,11,10,11,6,11,12,13,8,9,6,Lexington Medical Lodge,33.17365,-96.35309,Collin
+852,6,3,7,5,5,4,8,4,3,3,3,5,Lexington Place Nursing And Rehabilitation Center Of Nacogdoches,31.62169,-94.74495,Nacogdoches
+853,2,2,2,4,4,4,2,0,3,3,2,4,Lexington Place Nursing and Rehabilitation Center Richland Hills,32.79966,-97.20767,Tarrant
+854,0,0,0,0,0,0,0,1,0,0,0,0,Liberty Dayton Regional Medical Center,30.07536,-94.73395,Liberty
+855,6,1,2,3,5,1,8,8,4,2,2,8,Liberty Health Care Center,30.07536,-94.73395,Liberty
+856,2,7,5,1,8,7,11,6,6,7,8,10,Life Care Center of Haltom,32.80369,-97.26755,Tarrant
+857,13,9,19,10,13,4,5,8,9,15,15,11,Life Care Center of Plano,33.021370000000005,-96.74102,Collin
+860,5,5,5,3,3,1,1,5,1,3,1,0,Limestone Medical Center,31.50133,-96.51758,Limestone
+861,0,0,0,0,0,0,0,0,0,0,0,1,Lindale Healthcare Center,32.5361,-95.43456,Smith
+862,0,2,1,2,4,3,3,2,2,2,1,1,Lindan Park Rehabilitation And Nursing Center,32.94882,-96.7102,Dallas
+865,1,3,1,1,3,3,0,1,3,1,4,1,"Live Oak Nursing Center, LP",28.25927,-98.14445,Live Oak
+866,3,1,1,1,1,1,2,1,0,0,0,0,Llano Nursing and Rehabilitation Center,30.69023,-98.69483,Llano
+867,0,0,0,0,2,0,0,0,0,0,0,1,Lockney Health and Rehabilitation Center,34.1848,-101.38675,Floyd
+868,4,3,3,4,4,4,4,3,3,3,3,7,Longhorn Village,30.37912,-97.8931,Travis
+870,0,1,5,1,3,4,3,7,3,2,2,3,Longmeadow Healthcare Center,33.098420000000004,-97.32495,Denton
+871,5,7,7,9,2,6,10,9,5,7,4,7,Longview Hill Nursing and Rehabilitation Center,32.58258,-94.72065,Gregg
+874,4,6,6,6,6,11,8,4,5,8,9,10,Los Arcos del Norte Care Center,31.9519,-106.43401,El Paso
+875,0,0,0,2,2,1,2,1,3,2,0,0,"Lubbock Health Care Center, LP",33.56969,-101.89127,Lubbock
+876,0,0,0,0,0,0,0,0,0,0,1,0,Lubbock Hospitality House Nursing and Rehabilitation Center,33.54875,-101.91944,Lubbock
+877,1,1,0,1,1,0,1,0,2,1,0,0,Lubbock Ltc Nursing And Rehabilitation,33.56969,-101.89127,Lubbock
+880,1,3,1,1,0,0,1,3,1,0,0,1,Lutheran Sunset Ministry,31.80782,-97.56147,Bosque
+881,1,4,1,3,1,2,0,3,0,3,0,3,Lynn County Hospital District,33.1708,-101.83551,Lynn
+883,2,4,4,2,3,4,2,2,3,2,3,3,Lynwood Nursing And Rehabilitation,33.60538,-102.40278,Hockley
+884,1,1,0,0,0,0,0,1,0,0,0,1,Lytle Nursing Home,29.20448,-98.77533,Atascosa
+885,0,0,1,0,0,1,1,1,0,0,0,0,Mabank Nursing Home,32.433,-96.07743,Henderson
+887,4,3,4,4,10,9,0,4,6,6,6,5,Madison Medical Resort,31.92649,-102.35443,Ector
+888,4,4,7,4,4,10,8,6,0,0,0,0,Madison Saint Joseph Health Center,30.95416,-95.90559,Madison
+889,3,0,0,3,3,4,2,3,3,1,0,0,Madisonville Care Center,30.95416,-95.90559,Madison
+891,0,0,0,0,0,0,0,1,0,0,1,0,"Magnified Health and Rehab of Anderson, LLC",30.609070000000006,-96.32603,Brazos
+892,1,1,0,0,0,1,0,2,0,1,0,0,Magnolia Living and Rehabilitation,29.69106,-97.6345,Caldwell
+893,1,1,2,2,3,1,4,2,2,3,5,7,Magnolia Manor,29.94725,-93.91849,Jefferson
+894,2,1,1,0,3,0,0,4,0,1,1,0,Magnolia Place,32.7922,-94.306,Marion
+895,2,2,2,1,2,2,3,4,4,3,1,2,Magnolia Place Health Care,30.07536,-94.73395,Liberty
+896,1,1,0,1,0,1,2,0,0,0,0,0,Magnolia Place Skilled Nursing And Rehab,32.7922,-94.306,Marion
+899,3,2,4,0,2,1,3,3,3,4,3,3,"Manor Park, Inc",32.03347,-102.21158,Midland
+900,12,9,14,8,10,9,13,12,5,4,4,7,Mansfield Medical Lodge,32.5698,-97.14273,Tarrant
+901,0,1,0,0,0,1,2,1,0,0,0,0,Mansfield Nursing and Rehabilitation Center,32.5698,-97.14273,Tarrant
+903,2,2,1,1,1,3,2,3,4,2,1,1,Marine Creek Health and Rehabilitation Center,32.81451,-97.35244,Tarrant
+904,7,1,2,2,8,6,5,8,2,4,0,2,Marshall Manor Nursing and Rehabilitation Center,32.572990000000004,-94.42297,Harrison
+905,1,2,0,0,0,1,1,1,1,3,4,1,Marshall Manor West,32.572990000000004,-94.42297,Harrison
+908,5,7,2,3,4,7,1,4,7,7,4,0,Mason Creek Transitional Care of Katy,29.7463,-95.73832,Harris
+910,7,6,6,6,6,3,4,3,2,3,2,5,Matagorda House Healthcare Center At The Legacy Campus,28.899590000000003,-95.88091,Matagorda
+911,0,0,2,1,1,0,2,0,0,0,0,0,Matagorda Nursing and Rehabilitation Center,28.899590000000003,-95.88091,Matagorda
+912,6,5,0,3,3,0,0,0,0,3,4,6,Matlock Place Health and Rehabilitation Center,32.62262,-97.09226,Tarrant
+913,7,3,6,1,6,5,5,7,7,3,6,7,Maverick Nursing and Rehabilitation Center,28.75206,-100.31076,Maverick
+916,3,3,2,2,6,5,9,10,4,4,2,2,Mcallen Nursing Center,26.21583,-98.23917,Hidalgo
+917,4,14,8,13,11,8,11,17,18,19,15,14,McAllen Transitional Care Center,26.16531,-98.24764,Hidalgo
+919,0,0,0,0,0,0,1,0,0,0,0,0,McCamey Hospital,31.21544,-102.15319,Upton
+922,9,8,9,7,7,8,13,13,15,21,9,10,McKinney Healthcare and Rehabilitation Center,33.16547,-96.59469,Collin
+924,0,0,0,0,1,1,2,0,0,1,2,0,McLean Care Center,35.24304,-100.64262,Gray
+925,5,4,3,1,1,1,0,3,1,1,1,0,Meadow Lake Health Center,32.23855,-95.32063,Smith
+926,2,0,3,1,1,2,1,1,1,0,0,0,Meadowbrook Care Center,33.43311,-96.55161,Grayson
+927,0,0,0,1,0,0,0,0,0,0,0,0,Medical Arts Hospital,32.69327,-102.01053,Dawson
+935,2,2,0,0,2,2,3,1,2,0,1,2,Medina Regional Hospital,29.4267,-99.15448,Medina
+936,0,0,0,0,0,0,0,1,1,1,1,1,Medina Valley Health and Rehabilitation Center,29.3573,-98.88669,Medina
+939,9,12,16,12,9,14,10,7,10,6,4,11,Memorial City Health and Rehabilitation Center,29.79764,-95.49174,Harris
+943,1,1,0,0,0,2,2,1,1,1,2,0,Memorial Hermann Hospital Skilled Nursing Unit,29.706290000000006,-95.4026,Harris
+948,1,1,0,1,0,1,0,3,1,2,0,3,Memorial Hospital,32.68905,-102.74146,Gaines
+949,0,0,1,0,2,0,0,1,2,0,0,2,Memorial Medical Center,28.6023,-96.60786,Calhoun
+950,2,4,2,2,2,2,2,3,1,2,2,5,Memorial Medical Nursing Center,29.4646,-98.49266,Bexar
+951,0,0,0,0,0,0,0,1,0,0,0,0,Memorial Nursing and Rehabilitation Center,35.89512,-102.02432,Moore
+952,0,0,0,2,0,0,0,0,0,0,1,0,Memphis Convalescent Center,34.84545,-100.50845,Hall
+953,0,0,0,0,0,0,0,0,0,0,2,1,Menard Manor,30.908,-99.83252,Menard
+955,0,0,0,1,2,1,1,1,1,2,0,1,Meridian Care,29.5168,-98.363,Bexar
+956,3,1,3,1,2,2,2,1,5,4,4,2,Meridian Care of Alice,27.71843,-98.14284,Jim Wells
+957,0,0,1,0,1,0,0,0,0,0,1,0,Meridian Care Of Hebbronville,27.104340000000004,-98.78676,Jim Hogg
+958,0,0,0,0,0,0,0,0,0,0,1,0,Meridian Care of Monte Vista,29.4646,-98.49266,Bexar
+959,1,0,0,1,0,2,1,0,3,0,4,3,Meridian Of Temple,31.09622,-97.41034,Bell
+960,0,0,0,0,0,1,0,0,0,0,0,0,Merkel Nursing Center,32.47379,-100.03346,Taylor
+963,0,1,0,0,1,3,2,1,0,0,2,1,Mesa Vista Health Center,29.52465,-98.60749,Bexar
+964,1,0,1,0,2,0,1,0,1,1,1,0,"Mesquite Tree Nursing Center, LP",32.77003,-96.61487,Dallas
+966,0,0,5,3,1,1,3,2,3,1,2,0,Methodist Hospital Skilled Nursing Unit,29.706290000000006,-95.4026,Harris
+969,0,1,0,0,2,0,1,1,1,0,1,1,"Metroplex Nursing and Rehabilitation, LP",32.72757,-96.99439,Dallas
+970,1,1,0,1,2,1,1,0,0,0,0,0,Mexia LTC Nursing and Rehabilitation,31.65532,-96.46855,Limestone
+972,1,0,1,0,1,2,1,2,2,2,1,0,Mid Valley Nursing And Rehabilitation,26.1748,-97.91091,Hidalgo
+974,0,1,1,3,3,4,3,1,1,1,2,1,Midland Medical Lodge,32.051140000000004,-102.05955,Midland
+975,6,8,8,11,14,15,10,8,6,4,4,5,MIDLOTHIAN HEALTHCARE CENTER,32.47047,-96.98898,Ellis
+976,2,3,2,2,3,3,2,1,1,2,2,0,Midwestern Healthcare Center,33.86456,-98.49109,Wichita
+977,0,1,1,0,2,2,2,5,0,1,1,0,Millbrook Healthcare and Rehabilitation Center,32.57462,-96.75069,Dallas
+978,0,0,0,0,0,0,0,1,0,2,0,0,Mineola Healthcare Residence,32.67876,-95.4459,Wood
+979,7,8,7,3,4,5,7,0,5,0,2,7,Mineral Wells Nursing and Rehabilitation,32.80005,-98.12755,Palo Pinto
+980,3,2,6,2,5,3,3,4,0,0,0,1,Mira Vista Court,32.667590000000004,-97.41797,Tarrant
+981,1,0,0,0,0,1,1,1,0,0,0,0,Mirador,27.6603,-97.36893,Nueces
+982,4,1,2,1,2,1,2,0,0,0,1,1,Mission Care Center,29.686120000000006,-95.30343,Harris
+983,0,0,0,0,0,0,1,0,0,0,0,0,Mission Manor Healthcare Residence,33.17279,-95.21222,Franklin
+985,4,1,3,5,2,9,5,7,1,6,9,7,Mission Nursing and Rehabilitation Center,26.2281,-98.37665,Hidalgo
+988,1,2,6,4,2,0,2,4,3,5,4,5,MISSION VALLEY NURSING AND TRANSITIONAL CARE,26.2281,-98.37665,Hidalgo
+990,0,0,0,0,0,0,0,1,1,0,0,0,Mitchell County Nursing and Rehabilitation Center,32.31554000000001,-100.91777,Mitchell
+991,0,0,0,0,0,0,0,0,1,0,0,0,Modern Senior Living,32.75075,-96.75806,Dallas
+992,0,0,0,0,0,0,0,0,0,0,0,1,Monahans Managed Care Center,31.545790000000004,-102.85809,Ward
+993,0,0,0,3,2,1,1,1,0,0,0,0,Monarch Pavilion Rehabilitation,32.83251,-96.84851,Dallas
+994,0,0,0,0,0,0,0,0,0,1,0,0,"Monte Siesta Nursing and Rehabilitation, LP",30.2659,-97.86658,Travis
+996,6,6,2,0,2,1,4,2,0,1,0,0,Monument Hill Nursing And Rehabilitation Center,29.91566,-96.88947,Fayette
+999,0,5,1,5,9,4,4,4,2,2,8,7,Morningside Manor Health Care,29.46876,-98.52824,Bexar
+1000,0,0,0,0,0,0,1,0,0,0,0,0,Morningside Ministries at the Chandler Estate,29.4646,-98.49266,Bexar
+1003,4,4,8,10,9,7,8,6,6,10,3,8,Mountain View Health And Rehabilitation,31.78412,-106.4979,El Paso
+1006,8,9,14,5,7,6,8,6,7,6,4,7,MRC Creekside,30.643690000000007,-95.53981,Walker
+1009,6,9,12,10,6,5,2,1,0,0,3,1,Muenster Memorial Hospital Swing Bed,33.68568,-97.38545,Cooke
+1010,2,0,1,0,4,1,1,1,1,3,2,1,Mulberry Manor,32.28259,-98.19882,Erath
+1011,0,0,0,0,0,0,0,0,0,0,0,1,Muleshoe Area Medical Center,34.17746,-102.78205,Bailey
+1012,2,0,3,1,1,2,2,1,2,0,0,0,Mullican Care Center,33.62166,-96.33921,Fannin
+1015,0,2,1,3,3,0,0,0,0,1,1,2,Mystic Park Nursing and Rehabilitation Center,29.53692,-98.73779,Bexar
+1020,1,0,1,3,1,1,2,0,3,2,0,0,Navasota Nursing And Rehabilitation,30.3686,-96.0616,Grimes
+1021,2,3,9,1,6,2,1,6,17,15,5,17,Nazareth Living Care Center,31.78615,-106.4418,El Paso
+1022,1,0,0,0,0,1,0,1,1,0,1,1,Nesbit Living and Recovery Center,29.5334,-97.93886,Guadalupe
+1025,3,1,1,0,2,1,2,2,0,0,0,0,New Hope Manor,30.50395,-97.82463,Williamson
+1029,0,1,1,1,1,1,1,1,1,0,0,0,Nocona Nursing Home,33.82,-97.72916,Montague
+1030,2,0,1,1,2,0,0,2,2,0,1,2,"Nolan Nursing and Rehabilitation, LP",32.45432,-100.36402,Nolan
+1031,3,2,3,0,1,2,0,2,4,2,3,4,Normandy Terrace Healthcare and Rehabilitation Center,29.41674,-98.39321,Bexar
+1032,8,3,7,7,2,7,5,8,10,10,3,9,NORTH HOUSTON TRANSITIONAL CARE,29.97776,-95.57315,Harris
+1033,0,1,1,2,1,2,3,6,3,4,2,1,North Park Health and Rehabilitation Center,33.24664,-96.62898,Collin
+1034,2,2,2,2,1,3,1,2,1,3,2,2,"North Pointe Nursing and Rehabilitation, LP",32.868109999999994,-97.25197,Tarrant
+1038,7,8,9,4,2,4,7,5,7,7,6,5,Northeast Rehabilitation Center,29.4915,-98.4011,Bexar
+1039,2,1,4,4,1,1,1,3,3,2,1,1,Northern Oaks Living and Rehabilitation Center,32.40153,-99.88473,Taylor
+1040,0,0,1,1,1,0,2,0,1,0,1,1,Northgate Health and Rehabilitation Center,29.52465,-98.60749,Bexar
+1041,1,1,3,1,2,1,2,0,4,1,3,3,Northgate Plaza Nursing and Rehabilitation Center,32.846990000000005,-96.95696,Dallas
+1043,3,3,4,1,1,2,2,4,2,3,2,5,Northwest Health and Rehabilitation Center,30.00863,-95.44388,Harris
+1045,0,0,1,0,1,1,1,2,1,0,2,0,Oak Grove Nursing Home,29.94725,-93.91849,Jefferson
+1046,0,0,2,1,2,1,2,0,1,2,4,0,"Oak Manor Nursing and Rehabilitation, LP",33.26847,-95.91606,Hunt
+1047,0,0,0,0,0,0,0,1,3,1,2,8,Oak Manor Nursing Home,31.561120000000006,-94.50001,Nacogdoches
+1048,1,2,1,3,3,1,1,1,1,1,0,3,Oak Parks Nursing and Rehabilitation Center,29.50555,-98.5722,Bexar
+1049,2,1,1,2,0,0,1,1,0,1,1,1,Oak Ridge Manor,31.7425,-99.03991,Brown
+1050,1,2,1,1,0,4,1,1,0,4,3,5,Oak Village Healthcare,29.05023,-95.47549,Brazoria
+1051,7,5,3,2,1,3,2,3,7,1,2,2,Oakbend Medical Center Skilled Nursing Facility,29.48,-95.68315,Fort Bend
+1052,2,3,6,3,6,0,0,1,1,1,0,0,Oakbrook Healthcare Center,32.22164,-95.22053,Smith
+1054,1,0,0,0,0,0,0,0,1,0,0,1,"Oakland Manor Nursing Center, LP",30.16902,-96.92221,Lee
+1055,5,1,2,1,1,2,3,5,3,2,0,5,Oakmont Healthcare and Rehabilitation Center of Katy,29.83556,-95.73813,Harris
+1056,8,5,13,8,6,11,10,12,12,13,7,11,Oakmont Healthcare and Rehabilitation of Humble,30.00679,-95.29018,Harris
+1057,0,1,1,1,0,2,0,1,0,0,0,0,Oaks At White Settlement,32.77595,-97.52195,Tarrant
+1058,0,3,2,3,1,4,1,3,1,3,1,3,Oaks Nursing Center,30.79177,-98.26016,Burnet
+1060,7,4,2,5,6,6,3,4,3,3,2,0,Oakwood Manor Nursing Home,30.17843,-94.01841,Orange
+1062,2,4,3,3,1,1,3,2,6,2,5,5,Oasis Nursing and Rehabilitation Center,31.7075,-106.32682,El Paso
+1063,1,0,0,0,1,0,0,0,0,0,0,0,Ochiltree General Hospital,36.27683,-100.79875,Ochiltree
+1064,1,2,0,0,0,0,0,0,0,0,0,1,Odd Fellow and Rebekah Nursing and Rehab Center,32.32976,-96.59334,Ellis
+1068,9,6,10,10,10,9,6,7,9,10,14,9,One Heartland San Antonio Wellness And Rehabilitation,29.585490000000004,-98.40706,Bexar
+1069,1,0,1,1,1,0,1,1,1,1,1,1,Onion Creek Nursing And Rehabilitation Center,30.16538,-97.82343,Travis
+1070,3,8,7,9,8,10,14,7,4,3,6,5,OnPointe Transitional Care at Texas Health Arlington Memorial Hospital,32.75461,-97.13902,Tarrant
+1071,8,10,12,10,9,13,14,22,12,11,8,10,OnPointe Transitional Care at Texas Health Presbyterian Hospital Dallas,32.87767,-96.74979,Dallas
+1073,0,0,2,1,3,0,0,1,1,0,0,2,Otto Kaiser Memorial Hospital,28.73025,-97.89596,Karnes
+1074,0,0,0,0,0,0,1,0,0,1,1,0,Overton Healthcare Center,32.27336,-94.93893,Rusk
+1077,0,2,1,0,0,1,1,0,0,0,0,0,Palacios Community Medical Center,28.76252,-96.22966,Matagorda
+1079,0,1,0,0,0,0,0,0,0,0,0,1,Palestine Healthcare Center,31.87441,-95.66914,Anderson
+1081,1,4,4,2,1,2,2,2,2,2,0,2,Palma Real Nursing Center,28.10546,-97.8103,San Patricio
+1084,5,3,1,3,4,4,0,6,0,1,1,1,Palo Pinto General Hospital,32.80005,-98.12755,Palo Pinto
+1085,2,7,4,7,5,8,9,6,2,2,2,2,Palo Pinto Nursing Center and Rehabilitation,32.80005,-98.12755,Palo Pinto
+1086,4,6,4,5,7,6,10,5,2,2,4,1,Palomino Place,32.81577,-96.63039,Dallas
+1088,1,0,0,0,1,1,1,0,0,0,0,0,Pampa Nursing Center,35.54207,-100.89977,Gray
+1091,0,0,0,0,0,0,0,1,0,0,0,0,Panola Nursing and Rehabilitation Center,32.12895,-94.27705,Panola
+1092,3,2,3,2,3,1,4,5,5,3,1,2,Paradigm At First Colony,29.52569,-95.533,Fort Bend
+1093,0,0,0,3,1,3,0,1,4,3,2,4,Paradigm At Woodwind Lakes,29.87442,-95.52782,Harris
+1094,1,0,0,2,4,0,1,0,0,0,1,2,Paris Health Care Center,33.65811,-95.60422,Lamar
+1096,4,1,2,3,1,2,3,2,1,1,3,1,Park Bend Sn Health Center,30.38799,-97.70684,Travis
+1097,13,7,10,14,9,4,5,10,5,5,2,3,Park Highland Nursing Center,32.09642,-95.9083,Henderson
+1098,1,4,5,0,2,1,3,2,3,2,0,2,Park Manor Bee Cave,30.31942,-97.95838,Travis
+1099,0,0,0,0,0,0,2,0,1,0,0,1,Park Manor Health Care And Rehabilitation,32.59884,-96.86375,Dallas
+1100,23,17,16,21,21,23,19,24,14,29,33,31,Park Manor of Conroe,30.32957,-95.5141,Montgomery
+1101,10,7,10,6,9,9,3,4,5,6,6,4,Park Manor of Cyfair,29.92218,-95.54705,Harris
+1102,16,11,15,8,12,17,11,12,9,9,13,6,Park Manor of Cypress Station,30.00863,-95.44388,Harris
+1103,27,20,21,19,21,27,20,24,18,13,18,27,Park Manor of Humble,30.00679,-95.29018,Harris
+1104,5,7,10,7,10,8,7,16,8,6,7,10,Park Manor of McKinney,33.16547,-96.59469,Collin
+1105,7,5,3,6,10,14,7,5,5,9,6,2,Park Manor of Quail Valley,29.52569,-95.533,Fort Bend
+1106,14,13,14,10,15,7,6,17,19,9,9,12,Park Manor of The Woodlands,30.23494,-95.49526,Montgomery
+1107,15,11,19,12,15,12,12,15,11,8,16,16,Park Manor of Tomball,30.09543,-95.58939,Harris
+1108,15,9,8,6,8,8,6,7,8,13,10,12,Park Manor of Westchase,29.72359,-95.64179,Harris
+1109,19,14,9,12,6,18,10,16,13,8,10,12,Park Manor South Belt,29.58675,-95.22525,Harris
+1110,1,0,0,1,1,0,0,1,0,1,0,1,Park Place Health Care Center,30.66539,-97.59735,Williamson
+1111,0,0,0,1,0,0,0,0,0,0,0,0,Park Place Manor,31.05136,-97.49967,Bell
+1112,15,19,12,15,19,17,17,20,8,7,4,8,Park Place Nursing,32.32329,-95.30091,Smith
+1120,4,1,1,1,4,2,1,3,2,2,5,2,Park Valley Inn Health Center,30.53345,-97.72475,Williamson
+1121,0,1,1,2,1,2,2,2,1,2,3,3,Park View Care Center,32.75207,-97.26549,Tarrant
+1122,0,2,3,1,2,0,2,1,0,2,0,6,Park View Nursing and Rehabilitation,32.253640000000004,-101.47291,Howard
+1123,1,2,1,1,2,1,1,1,1,1,1,1,Park View Nursing Care Center,34.17746,-102.78205,Bailey
+1124,5,6,7,5,7,1,2,2,4,4,3,3,Parklane West,29.48906,-98.45671,Bexar
+1125,0,1,1,1,0,1,0,0,0,0,1,0,Parkview Hospital,35.43810999999999,-100.19616,Wheeler
+1126,0,3,0,0,0,3,1,1,1,2,0,2,Parkview Manor Nursing and Rehabilitation,29.65418,-96.73556,Colorado
+1127,6,3,2,6,2,5,6,2,1,1,1,5,Parkview Nursing And Rehabilitation Center,29.870490000000004,-97.67528,Caldwell
+1128,0,0,1,0,0,1,1,0,0,0,1,1,Parkview Regional Hospital,31.65532,-96.46855,Limestone
+1129,5,1,10,5,5,4,4,4,1,4,3,3,Parkway Place,29.750120000000006,-95.61547,Harris
+1130,3,5,3,5,5,3,10,8,1,2,3,4,Parkwood Healthcare Community,32.83064,-97.14522,Tarrant
+1132,1,2,2,1,0,2,0,1,0,1,0,1,Parkwood Place Healthcare Center,31.33969,-94.82173,Angelina
+1135,3,3,2,7,5,3,4,2,2,3,5,6,Pasadena Care Center,29.64802,-95.18998,Harris
+1136,2,2,1,2,1,4,2,2,1,3,1,3,Pathways Memory Care At Villa Toscana,29.9805,-95.46358,Harris
+1137,2,4,3,4,4,5,9,7,4,6,6,6,Patriot Heights San Antonio,29.52465,-98.60749,Bexar
+1138,7,6,6,7,3,0,0,0,0,0,0,0,Patriot Rehabilitation And Wellness Center,31.9519,-106.43401,El Paso
+1139,0,0,0,0,0,2,2,1,1,1,2,2,Peach Tree Place,32.75481,-97.78995,Parker
+1141,2,3,3,2,1,3,4,1,1,0,2,1,Pearl Nordan Care Center Of Juliette Fowler Communities,32.82867,-96.74542,Dallas
+1143,0,0,0,0,0,2,0,0,0,0,1,0,Pearsall Skilled Nursing and Rehabilitation Center,28.90171,-99.14689,Frio
+1144,3,6,4,2,5,2,2,5,2,6,8,6,Pebble Creek Nursing Center,31.77618,-106.29785,El Paso
+1145,1,1,1,2,0,0,0,1,1,1,0,0,Pecan Manor Nursing And Rehabilitation,32.64076,-97.21584,Tarrant
+1146,3,3,5,3,3,1,1,2,0,1,3,2,Pecan Tree Rehab and Healthcare Center,33.65629000000001,-97.17453,Cooke
+1148,5,5,5,8,1,3,9,6,5,6,1,8,Pecan Valley Rehabilitation And Healthcare Center,29.36614,-98.37786,Bexar
+1149,2,2,2,0,0,0,0,0,0,0,0,1,Pecos County Memorial Hospital,30.74292,-102.78315,Pecos
+1150,0,0,0,0,0,0,0,0,0,1,2,1,Pennsylvania Rehab,32.7287,-97.31777,Tarrant
+1151,0,0,0,0,0,1,1,0,0,0,0,0,Permian Regional Medical Center,32.32942,-102.69917,Andrews
+1153,1,1,0,2,2,1,2,2,0,1,3,2,Petal Hill Nursing and Rehabilitation Center,32.32329,-95.30091,Smith
+1155,1,2,0,0,0,0,0,1,0,2,1,0,Pflugerville Care Center,30.443040000000003,-97.5955,Travis
+1156,3,2,1,0,0,2,2,1,3,2,1,0,Pflugerville Nursing and Rehabilitation Center,30.443040000000003,-97.5955,Travis
+1158,1,3,4,3,2,2,4,5,3,4,1,3,Pilot Point Care Center,33.3719,-96.91965,Denton
+1159,5,0,0,1,4,1,3,0,1,5,1,6,Pine Arbor,30.41587,-94.17206,Hardin
+1162,4,7,10,6,9,9,5,8,7,6,5,6,Pine Grove,31.73268,-94.20157,Shelby
+1163,0,3,2,3,6,5,0,4,1,6,1,4,"Pine Ridge Health Care, LLP",30.7127,-94.82192,Polk
+1165,0,0,0,0,2,0,2,1,3,6,5,5,Pine Shadow Retreat,30.11106,-95.26741,Montgomery
+1166,6,6,8,5,0,3,3,2,3,2,2,0,Pine Tree Lodge Nursing Center,32.509640000000005,-94.82784,Gregg
+1167,0,0,0,0,0,1,0,0,0,1,0,0,Pinecrest Nursing and Rehabilitation Center,32.32329,-95.30091,Smith
+1168,2,4,4,2,6,7,6,7,3,2,3,5,Pinecrest Retirement Community,31.33969,-94.82173,Angelina
+1170,2,2,0,1,3,1,2,1,0,0,0,0,Pittsburg Nursing Center,32.96953,-94.95017,Camp
+1171,2,0,2,1,2,0,2,1,2,1,2,0,Plains Memorial Hospital,34.48692,-102.33088,Castro
+1172,1,6,3,6,4,7,4,8,4,5,3,5,Plainview Healthcare Center,34.17157,-101.73864,Hale
+1174,2,0,4,3,4,3,2,3,0,0,1,0,Pleasant Manor Health and Rehabilitation Center,32.36912,-96.79744,Ellis
+1175,9,5,4,10,4,3,4,9,4,1,1,2,Pleasant Springs Healthcare Center,33.21697,-94.97819,Titus
+1176,3,5,8,3,4,1,3,5,1,1,0,3,Pleasant Valley Healthcare and Rehabilitation Center,32.92766,-96.62008,Dallas
+1177,4,2,3,1,3,2,3,1,3,1,4,2,Ponderosa Nursing and Rehabilitation,33.50992,-94.62748,Bowie
+1178,5,3,2,3,4,3,6,4,2,4,3,4,Port Lavaca Nursing and Rehabilitation Center,28.6023,-96.60786,Calhoun
+1179,0,1,0,1,0,1,0,1,0,1,0,1,Post Nursing and Rehabilitation Center,33.25907,-101.33041,Garza
+1181,0,0,0,2,1,0,0,1,1,0,0,0,Prairie Acres Rehabilitation And Nursing Friona Heritage Estates,34.68445,-102.78722,Parmer
+1182,5,8,7,9,9,9,6,8,2,6,6,5,Prairie Estates,,,Collin
+1183,4,1,1,2,2,1,2,2,1,2,1,1,Prairie House Living Center,34.17157,-101.73864,Hale
+1186,0,1,0,0,0,0,0,0,0,0,0,0,"Presbyterian Manor, Inc",33.85238,-98.54057,Wichita
+1187,18,34,41,35,28,42,31,39,20,19,12,25,Presbyterian Village North,32.91211,-96.73563,Dallas
+1188,5,8,7,9,10,8,8,12,6,7,8,10,Prestonwood Rehabilitation and Nursing Center,33.0355,-96.81001,Collin
+1189,1,1,2,1,1,0,1,2,1,1,4,1,Promise Skilled Nursing Facility of Wichita Falls,33.90561,-98.48,Wichita
+1191,33,31,30,31,30,28,30,23,15,13,11,18,Providence Park of Tyler,32.23855,-95.32063,Smith
+1192,2,10,0,4,3,0,1,4,1,1,4,0,Quality Care of Waco,31.55371,-97.15818,McLennan
+1196,2,4,3,4,3,4,3,4,3,4,3,4,Querencia at Barton Creek,30.2659,-97.86658,Travis
+1198,5,6,9,6,6,0,1,7,7,10,5,4,Rambling Oaks Courtyard Extensive Care Community,33.07885,-97.06273,Denton
+1199,0,1,1,1,0,1,1,2,0,1,0,0,Ranger Care Center,32.50228,-98.66151,Eastland
+1201,10,11,5,5,4,5,4,6,3,2,2,2,RAPID RECOVERY CENTER OF FORT WORTH,32.667590000000004,-97.41797,Tarrant
+1203,1,2,2,0,0,0,0,0,0,0,1,0,Rayburn Health Care and Rehabilitation,30.94151,-94.05383,Jasper
+1206,1,4,6,2,4,3,3,8,1,4,3,5,Red Oak Health And Rehabilitation Center,32.52278,-96.8101,Ellis
+1211,1,0,1,0,0,1,0,0,0,1,1,0,Refugio Manor Skilled Nursing and Rehabilitation Center,28.35557,-97.15776,Refugio
+1213,1,0,0,3,0,0,0,0,0,0,1,2,Regency Manor Healthcare Center,31.138070000000006,-97.37258,Bell
+1214,0,0,0,0,0,0,0,0,3,2,2,0,"Regency Manor Nursing and Rehabilitation, LP",29.11822,-98.2018,Wilson
+1215,14,17,25,20,24,20,19,26,24,27,19,18,Regency Village,29.53781,-95.13687,Harris
+1216,0,1,5,11,18,19,24,5,6,10,10,13,Regent Care Center at Medical Center,29.50555,-98.5722,Bexar
+1217,6,6,4,6,5,9,6,3,2,4,5,1,Regent Care Center of El Paso,31.76791,-106.33018,El Paso
+1218,14,14,14,19,20,10,18,21,14,27,15,22,Regent Care Center of Kingwood,30.04922,-95.22136,Harris
+1219,0,1,1,3,2,0,1,1,0,3,2,3,Regent Care Center of Laredo,27.554170000000006,-99.46337,Webb
+1220,6,4,10,7,6,9,12,8,10,11,12,7,Regent Care Center of League City,29.50205,-95.08652,Galveston
+1221,4,9,12,7,5,2,7,6,7,2,0,0,Regent Care Center of Oakwell Farms,29.4915,-98.4011,Bexar
+1222,3,2,4,2,4,2,3,2,3,3,3,3,Regent Care Center of San Marcos,29.87958,-97.96642,Guadalupe
+1223,3,5,7,8,7,8,1,3,5,6,5,5,Regent Care Center of the Woodlands,30.17818,-95.50144,Montgomery
+1224,5,1,6,0,1,4,4,2,1,2,0,5,Regent Care Center of Woodway,31.52401,-97.25565,McLennan
+1226,1,1,1,1,0,1,1,1,1,0,0,1,Remarkable Healthcare Of Dallas,32.71162,-96.78369,Dallas
+1229,6,0,3,7,3,2,4,3,1,3,2,2,Remarkable Healthcare Of Fort Worth Lp,32.8588,-97.29129,Tarrant
+1230,1,3,2,1,1,1,2,2,0,0,1,0,Remarkable Healthcare Of Prestonwood,33.034240000000004,-96.89672,Denton
+1231,2,0,2,1,3,3,0,1,2,2,0,2,Remarkable Healthcare Of Seguin,29.5334,-97.93886,Guadalupe
+1232,39,43,48,29,32,46,36,40,23,17,19,18,Remington Transitional Care of Richardson,32.99159,-96.66233,Collin
+1233,12,17,13,7,20,12,7,17,15,24,21,13,REMINGTON TRANSITIONAL CARE OF SAN ANTONIO,29.50555,-98.5722,Bexar
+1234,4,2,2,4,4,8,2,9,5,6,3,6,Renaissance Care Center,33.65629000000001,-97.17453,Cooke
+1235,8,4,7,7,9,4,6,7,1,1,1,1,Renaissance Park Multi Care Center,32.701,-97.38392,Tarrant
+1236,0,0,0,0,0,1,0,0,0,0,0,0,Renaissance Park MultiCare Center,32.701,-97.38392,Tarrant
+1237,1,0,0,0,0,0,0,0,0,0,0,0,Renaissance Villa,30.65,-97.00757,Milam
+1239,0,4,7,1,2,2,3,2,6,5,3,4,Retama Manor Nursing Center Alice,27.71843,-98.14284,Jim Wells
+1240,2,4,3,0,2,4,1,2,0,2,1,0,Retama Manor Nursing Center Corpus Christi North,27.77425,-97.43876,Nueces
+1241,0,0,1,1,0,1,1,1,1,0,0,0,Retama Manor Nursing Center Edinburg,26.27915,-98.18321,Hidalgo
+1242,5,8,8,8,10,8,6,10,11,9,5,8,Retama Manor Nursing Center Harlingen,26.25668,-97.66671,Cameron
+1243,1,1,1,0,0,0,0,1,1,2,0,0,Retama Manor Nursing Center Jourdanton,28.83753,-98.59731,Atascosa
+1244,1,3,0,0,0,2,2,0,2,3,1,4,Retama Manor Nursing Center Laredo South,27.51345,-99.50228,Webb
+1245,1,0,0,0,0,1,0,3,2,2,1,1,Retama Manor Nursing Center Laredo West,27.51345,-99.50228,Webb
+1246,0,0,0,1,1,3,3,2,3,1,2,3,Retama Manor Nursing Center McAllen,26.21583,-98.23917,Hidalgo
+1247,3,0,0,0,0,0,0,1,1,2,0,1,Retama Manor Nursing Center Pleasanton North,28.93614,-98.42572,Atascosa
+1248,1,1,2,2,1,1,0,2,0,1,0,0,Retama Manor Nursing Center Pleasanton South,28.93614,-98.42572,Atascosa
+1249,3,5,9,6,3,4,4,7,3,5,5,2,Retama Manor Nursing Center Raymondville,26.48667,-97.73793,Willacy
+1250,3,7,7,3,1,5,4,7,4,6,3,2,Retama Manor Nursing Center Rio Grande City,26.55556,-98.73563,Starr
+1251,0,2,2,2,1,0,0,1,1,2,1,0,Retama Manor Nursing Center San Antonio North,29.4646,-98.49266,Bexar
+1252,2,2,1,1,1,0,3,0,1,1,1,0,Retama Manor Nursing Center San Antonio West,29.42111,-98.56936,Bexar
+1253,1,2,3,2,3,3,4,1,1,0,0,0,Retama Manor Nursing Home,26.15805,-97.98925,Hidalgo
+1254,0,0,3,3,3,7,2,0,4,6,3,4,Retama Manor South,28.80493,-96.98473,Victoria
+1255,4,2,7,6,4,6,7,5,4,6,4,7,Reunion Plaza Healthcare and Rehabilitation,32.23855,-95.32063,Smith
+1256,9,12,5,14,21,17,10,12,5,3,4,6,Reunion Plaza Senior Care Center,33.51343,-94.13057,Bowie
+1257,0,0,0,0,0,1,1,1,0,0,0,0,Rice Medical Center,29.52568,-96.30213,Colorado
+1260,2,2,2,2,2,4,5,2,0,0,2,3,Richland Hills Nursing and Rehabilitation Center,32.79966,-97.20767,Tarrant
+1261,1,0,3,1,0,0,4,1,2,0,1,2,Richmond Health Care Center,29.48,-95.68315,Fort Bend
+1263,3,4,7,6,6,3,6,4,5,2,3,2,Ridgecrest Healthcare And Rehabilitation Center,32.74204,-96.45185,Kaufman
+1264,1,0,0,0,0,0,0,0,0,0,0,0,Ridgecrest Retirement Center,31.52401,-97.25565,McLennan
+1265,3,3,3,3,2,4,3,9,4,5,3,3,Ridgeview Rehabilitation and Skilled Nursing,32.28511,-97.51137,Johnson
+1266,5,8,8,13,13,12,7,9,8,4,3,1,Ridgmar Medical Lodge,32.72172,-97.44637,Tarrant
+1267,8,4,5,5,7,4,3,6,3,2,5,2,Rio Grande City Nursing and Rehabilitation Center,26.55556,-98.73563,Starr
+1268,1,2,2,2,0,0,0,1,2,1,0,0,Rising Star Nursing Center,32.11606,-98.98478,Eastland
+1269,2,1,1,1,0,0,0,0,0,0,0,0,River City Care Center,29.428140000000006,-98.46082,Bexar
+1270,8,9,11,7,11,10,14,11,10,9,9,8,River Hills Health and Rehabilitation Center,30.03422,-99.15819,Kerr
+1271,2,0,0,0,1,3,3,4,1,1,2,1,River Oaks Health and Rehabilitation Center,32.81451,-97.35244,Tarrant
+1272,0,0,0,0,0,0,0,0,0,2,2,4,River Ridge Nursing And Rehabilitation,27.83848,-97.59654,Nueces
+1273,3,2,3,0,1,0,1,2,2,0,0,0,River Valley Health and Rehabilitation Center,33.65629000000001,-97.17453,Cooke
+1275,5,1,2,1,0,2,4,1,3,0,0,0,Riverside Rehabilitation and Health Care Center,30.230490000000003,-97.71401,Travis
+1276,0,0,0,0,0,0,0,1,1,0,0,2,Riverview Nursing And Rehabilitation,29.85533,-98.72266,Kendall
+1278,0,1,2,3,2,2,0,1,0,0,0,0,Robert Lee Care Center,31.88095,-100.61152,Coke
+1279,3,0,0,0,0,0,0,2,1,1,2,1,Robstown Nursing And Rehabilitation Center,27.789040000000004,-97.74623,Nueces
+1280,3,1,3,1,5,1,0,1,0,2,0,1,Rock Creek Health and Rehabilitation,33.16816,-95.60681,Hopkins
+1281,5,4,2,5,2,3,6,8,5,3,1,3,"Rock Haven Nursing Home, Inc",31.62169,-94.74495,Nacogdoches
+1285,1,1,1,3,3,2,2,2,1,1,0,0,Rockport Nursing And Rehabilitation Center,28.143890000000006,-97.05081,Aransas
+1286,1,0,0,0,0,0,0,1,1,1,0,0,Rockwall Nursing Care Center,32.941720000000004,-96.44993,Rockwall
+1287,2,1,0,1,3,2,1,0,0,0,3,0,Rolling Meadows,33.89493,-98.54383,Wichita
+1289,1,4,4,3,1,1,2,2,2,0,1,1,ROLLINGBROOK REHABILITATION AND HEALTHCARE CENTER,29.79849,-94.96589,Harris
+1290,0,1,2,1,0,1,3,3,4,2,3,2,Rollins Brook Community Hospital,31.08754,-98.22873,Lampasas
+1292,2,1,1,0,1,0,2,1,1,0,1,0,Rose Haven Retreat,33.115559999999995,-94.20197,Cass
+1293,4,7,5,5,5,7,4,5,2,1,3,9,Rose Trail Nursing And Rehabilitation Center,32.32329,-95.30091,Smith
+1294,3,0,2,1,3,3,0,1,0,2,0,1,"Rosenberg Health and Rehabilitation Center, LP",29.54596,-95.86816,Fort Bend
+1295,0,0,0,0,0,0,0,0,0,2,0,1,Rosewood Rehabilitation and Care Center,29.48787,-98.29148,Bexar
+1297,0,2,5,4,6,5,5,2,2,4,3,4,Rowlett Health and Rehabilitation Center,32.89229,-96.54917,Dallas
+1298,0,0,0,0,0,0,0,1,1,0,0,0,Royal Manor East,31.52401,-97.25565,McLennan
+1300,5,5,9,11,7,8,10,7,9,6,7,7,Royal Oaks Residence and Rehabilitation Center,29.72359,-95.64179,Harris
+1301,3,4,4,7,8,8,5,3,3,5,4,1,Royse City Health and Rehabilitation Center,32.95188,-96.3119,Rockwall
+1302,2,0,1,0,1,0,1,0,2,1,2,1,Runningwater Draw Care Center,34.19815,-102.12114,Lamb
+1304,3,0,1,2,1,1,2,1,1,0,1,1,Sagebrook Health Center,30.50395,-97.82463,Williamson
+1305,1,1,0,0,0,0,1,0,2,2,0,0,Sagecrest Alzheimers Care Center,31.484820000000006,-100.43723,Tom Green
+1308,25,15,22,17,12,20,17,14,20,15,12,17,Saint Catherine Center,31.52401,-97.25565,McLennan
+1309,2,1,2,3,4,5,1,1,2,1,1,1,Saint Dominic Village,29.69711,-95.35744,Harris
+1311,2,2,2,0,0,0,1,2,1,1,2,1,Saint James House of Baytown,29.73897,-94.9983,Harris
+1316,2,7,3,2,4,2,2,3,2,2,1,3,Saint Teresa Nursing and Rehabilitation Center,31.79772,-106.36331,El Paso
+1317,0,2,0,0,0,0,0,0,0,0,0,0,San Antonio Residence and Rehabilitation Center,29.54613,-98.55551,Bexar
+1320,2,0,1,0,1,0,1,0,1,0,1,0,SAN GABRIEL REHABILITATION AND CARE CENTER,30.54489,-97.64379,Williamson
+1321,1,2,2,5,5,2,1,6,6,7,3,2,San Jacinto Manor Skilled Nursing And Rehab,29.698390000000003,-95.12128,Harris
+1325,1,0,1,2,1,0,2,1,0,0,0,2,"San Juan Nursing Home, Inc",26.16789,-98.15483,Hidalgo
+1326,2,1,0,1,0,1,0,1,0,1,0,1,San Marcos Rehabilitation and Healthcare Center,29.87958,-97.96642,Guadalupe
+1327,1,1,5,3,1,4,4,0,1,2,1,2,San Pedro Manor,29.4646,-98.49266,Bexar
+1328,0,0,0,0,0,0,0,0,0,0,0,1,San Rafael Nursing and Rehabilitation Center,27.6566,-97.48182,Nueces
+1329,5,12,13,11,8,12,9,10,9,4,3,5,San Remo,32.99159,-96.66233,Collin
+1331,5,8,15,15,8,9,5,10,11,7,7,3,Sandy Lake Rehabilitation and Care Center,32.96329,-96.98553,Dallas
+1332,5,6,5,9,8,9,5,3,4,3,6,7,Santa Fe Health and Rehabilitation Center,32.75481,-97.78995,Parker
+1334,2,1,3,4,7,5,3,6,1,5,2,1,Scc At Hunters Pond Rehabilitation And Healthcare Center,29.29428,-98.53945,Bexar
+1338,1,0,1,1,2,2,2,0,2,0,2,0,Schulenburg Regency Nursing Center,29.68793,-96.93415,Fayette
+1340,0,0,0,1,1,0,0,0,0,0,0,0,Scott and White Memorial Hospital Skilled Nursing Unit STC4,31.07746,-97.36411,Bell
+1341,3,2,2,1,3,7,4,6,2,1,4,2,"Seabreeze Nursing and Rehabilitation, LP",29.39941,-94.99751,Galveston
+1342,2,4,5,4,3,3,1,2,0,2,0,2,Sedona Trace Health and Wellness,30.35575,-97.64482,Travis
+1343,6,7,5,3,6,6,6,10,5,7,6,6,Senior Care at Stephenville,32.28259,-98.19882,Erath
+1344,2,7,9,8,3,6,8,2,5,0,1,1,Senior Care At The Homestead Of Denison,33.77167,-96.60413,Grayson
+1345,1,2,1,1,1,0,0,3,2,2,0,0,Senior Care Beltline Health and Rehabilitation,32.92766,-96.62008,Dallas
+1346,0,2,1,2,1,1,2,1,1,1,0,2,Senior Care Brownwood,31.7425,-99.03991,Brown
+1347,4,4,3,3,6,7,9,8,5,5,7,5,Senior Care Center At Valley Grande Manor,25.96396,-97.55009,Cameron
+1348,1,1,0,0,0,1,0,1,1,0,0,2,Senior Care Center of Marlandwood East,31.09622,-97.41034,Bell
+1349,10,8,14,7,8,6,9,9,10,10,6,10,Senior Care Centers Green Oaks,32.68906,-97.18871,Tarrant
+1350,5,3,3,5,9,11,2,8,7,6,2,3,Senior Care Centers Regency House,31.540940000000006,-100.62879,Tom Green
+1351,4,7,12,13,13,9,12,17,11,9,14,13,Senior Care Denton Post Acute Care,33.20883,-97.05736,Denton
+1352,4,3,4,2,2,1,3,7,5,2,1,4,Senior Care Edinburg Health And Rehabilitation,26.27915,-98.18321,Hidalgo
+1353,6,5,11,6,9,8,9,6,5,8,7,5,Senior Care Health and Rehabilitation Center,33.86456,-98.49109,Wichita
+1354,2,2,5,9,10,10,8,8,0,2,2,2,Senior Care Health and Rehabilitation Center,33.16683,-97.84266,Wise
+1355,8,5,9,6,6,8,6,5,0,0,0,0,Senior Care Health and Rehabilitation Center,33.272,-97.51417,Wise
+1356,0,1,1,1,1,1,1,0,0,0,0,0,Senior Care Health and Rehabilitation Dallas,32.75075,-96.75806,Dallas
+1357,0,0,1,0,0,0,0,1,0,0,0,0,Senior Care Of Corpus Christi Assisted Living Facility,27.77425,-97.43876,Nueces
+1358,6,11,12,9,18,5,6,6,6,3,5,3,Senior Care of Crowley,32.577020000000005,-97.41283,Tarrant
+1361,14,12,13,14,10,19,10,19,20,19,15,18,Senior Care of Harbor Lakes,32.42318,-97.80877,Hood
+1362,8,7,5,11,5,6,4,2,6,5,1,4,Senior Care of Hewitt,31.4538,-97.19366,McLennan
+1363,11,11,13,9,9,11,10,6,6,7,10,10,Senior Care of Holland Lake,32.75481,-97.78995,Parker
+1364,3,1,2,7,9,14,8,7,6,3,4,6,Senior Care of Marlandwood West,31.09622,-97.41034,Bell
+1365,4,5,4,3,4,11,6,8,6,2,4,13,Senior Care Of Meadow Creek,31.283590000000004,-100.39453,Tom Green
+1366,0,0,0,0,0,0,0,0,0,7,1,5,Senior Care of San Angelo,31.283590000000004,-100.39453,Tom Green
+1367,4,1,2,2,5,6,3,4,4,4,8,8,Senior Care Of Weston Inn,31.138070000000006,-97.37258,Bell
+1368,0,0,5,1,2,2,4,3,7,5,1,3,Senior Care Of Windcrest,29.5168,-98.363,Bexar
+1369,0,1,0,0,1,2,2,1,1,1,1,0,Senior Care of Wurzbach,29.50555,-98.5722,Bexar
+1370,15,13,12,7,8,4,5,5,5,4,3,1,Senior Care Stallings Court Nursing and Rehabilitation,31.72385,-94.62609,Nacogdoches
+1371,0,0,0,0,1,1,1,0,0,0,0,0,Senior Rehabilitation and Skilled Nursing Center,29.93921,-93.91601,Jefferson
+1372,0,1,1,0,1,1,1,0,0,1,0,4,"Senior Suite Care and Rehabilitation, LLC",32.87828,-95.75557,Rains
+1374,0,1,0,1,0,1,1,1,1,0,1,1,Seton Edgar B Davis Hospital,29.69106,-97.6345,Caldwell
+1379,0,4,3,5,1,2,2,1,1,0,0,0,Settlers Ridge Care Center,33.34028,-96.75033,Collin
+1380,3,3,3,3,4,2,2,2,2,2,4,2,"Seven Acres Jewish Senior Care Services, Inc",29.68802,-95.51627,Harris
+1381,1,0,1,1,1,2,0,0,2,1,0,0,Seven Oaks Nursing and Rehabilitation,33.57268,-96.17766,Fannin
+1382,0,0,0,2,1,1,1,1,0,0,0,0,Seymour Hospital,33.61862,-99.2424,Baylor
+1383,2,2,1,1,1,1,0,0,0,0,0,2,Seymour Rehabilitation and Healthcare,33.61862,-99.2424,Baylor
+1384,0,1,0,0,1,1,0,1,0,0,0,0,Shady Acres Nursing and Rehabilitation Center,30.8352,-93.72844,Newton
+1385,0,0,0,0,1,1,0,1,0,0,1,0,Shady Oak Nursing and Rehabilitation Center,29.56786,-97.08484,Lavaca
+1386,0,0,0,0,0,1,2,1,1,2,0,0,Shady Shores,31.30812,-93.77894,Sabine
+1388,3,4,3,3,2,0,2,3,2,0,2,3,Shannon Medical Center,31.484820000000006,-100.43723,Tom Green
+1391,1,1,1,3,2,1,1,0,2,3,4,8,Sharpview Residents and Rehab,29.70167,-95.53594,Harris
+1392,4,1,5,4,10,4,6,5,0,1,2,1,Sheridan Medical Lodge,34.09738,-98.62144,Wichita
+1393,2,1,1,2,1,0,0,2,0,1,0,0,Shiner Nursing and Rehabilitation Center,29.45352,-97.18786,Lavaca
+1394,0,0,1,0,0,0,0,0,0,0,1,0,Shinnery Oaks Community,32.94697,-102.8723,Yoakum
+1396,0,0,1,0,1,2,0,2,1,1,1,4,"Sienna Nursing and Rehabilitation, LP",31.79918,-102.46788,Ector
+1398,17,13,14,12,13,19,13,14,11,10,14,11,Signature Pointe on the Lake,32.94562,-96.80137,Dallas
+1399,2,2,0,1,1,2,0,0,0,0,1,0,Silsbee Convalescent Center,30.41587,-94.17206,Hardin
+1400,2,0,0,1,0,2,1,1,2,0,0,1,"Silsbee Oaks Health Care, LLP",30.41587,-94.17206,Hardin
+1401,1,0,2,1,0,0,1,2,1,0,0,0,Silver Creek Manor,29.503190000000004,-98.66622,Bexar
+1403,2,4,0,1,2,3,1,4,3,7,7,6,Silver Tree Nursing and Rehabilitation Center,29.54622,-98.26628,Guadalupe
+1404,0,0,0,0,0,0,1,0,0,0,5,5,Silverado Hermann Park Memory Care,29.72463,-95.36307,Harris
+1406,1,0,1,2,3,1,1,5,1,3,3,2,Silverspring Health And Rehabilitation Center,32.57965,-99.6635,Taylor
+1407,0,1,0,1,0,0,0,0,0,0,0,0,Simpson Place Assisted Living,32.79292,-96.7733,Dallas
+1408,1,2,1,2,2,5,3,0,0,0,0,0,Skilled Care at Mexia,31.65532,-96.46855,Limestone
+1409,1,0,0,0,2,0,0,2,2,3,1,2,Skyline Nursing Center,32.70435,-96.87297,Dallas
+1410,1,2,0,1,0,0,1,2,0,1,0,0,Slaton Care Center,33.452040000000004,-101.64305,Lubbock
+1412,0,0,0,0,0,0,2,0,1,1,1,0,Snyder Healthcare Center,32.91367,-100.84508,Scurry
+1413,0,2,0,1,1,1,2,1,0,2,0,2,Snyder Oaks Care Center,32.91367,-100.84508,Scurry
+1414,0,0,1,1,1,0,0,0,0,0,0,0,Solara Hospital McAllen,26.16531,-98.24764,Hidalgo
+1415,19,31,27,23,34,36,31,37,35,29,28,33,Solera at West Houston,29.82641,-95.66214,Harris
+1416,0,0,0,0,0,1,0,0,1,1,1,1,Songbird Lodge,31.7425,-99.03991,Brown
+1417,12,6,9,6,2,4,4,7,3,7,3,7,Sonterra Health Center,29.6337,-98.49605,Bexar
+1418,7,13,10,17,11,10,16,26,28,33,29,25,Sorrento Continuing Care Center,29.50555,-98.5722,Bexar
+1421,2,1,4,8,4,5,5,14,4,3,3,2,South Place Nursing Center,32.09642,-95.9083,Henderson
+1424,3,1,0,0,1,1,0,0,1,1,0,3,Southbrooke Manor Nursing and Rehabilitation Center,29.03768,-96.70042,Jackson
+1425,0,1,1,2,1,0,0,0,1,1,0,4,Southeast Nursing and Rehabilitation Center,29.36614,-98.37786,Bexar
+1429,0,0,1,1,0,3,1,3,1,2,1,1,Southland Rehabilitation and Healthcare Center,31.301340000000003,-94.65552,Angelina
+1430,7,0,8,2,0,0,1,0,3,2,2,0,Southpark Meadows Nursing and Rehabilitation Center,30.16538,-97.82343,Travis
+1431,1,1,1,3,0,0,0,1,1,2,1,0,Southwest Nursing and Rehabilitation Center,32.653929999999995,-97.37723,Tarrant
+1435,2,1,1,2,0,1,2,5,4,2,1,1,Spanish Meadows Nursing and Rehabilitation,29.7433,-95.82861,Fort Bend
+1436,6,5,7,6,9,7,9,5,9,9,9,12,Spanish Meadows Of Brownsville,25.96396,-97.55009,Cameron
+1438,0,1,1,1,0,0,0,1,2,0,0,0,SPJST Skilled Nursing and Rehabilitation Needville,29.38012,-95.80673,Fort Bend
+1439,1,2,1,2,0,2,0,2,0,2,1,2,SPJST Skilled Nursing and Rehabilitation Taylor,30.58422,-97.38742,Williamson
+1443,2,1,4,2,3,1,2,0,2,1,1,2,Spring Branch Transitional Care Center,29.79764,-95.49174,Harris
+1444,2,1,0,0,0,0,0,1,0,0,0,0,"Spring Oaks Nursing and Rehabilitation, LP",31.08754,-98.22873,Lampasas
+1445,1,2,3,4,3,1,0,2,4,1,2,2,SSC San Diego La Paloma Operating Company LP,27.85315,-98.37031,Duval
+1446,8,6,5,5,4,7,4,6,4,4,7,7,St Giles Nursing And Rehabilitation Center,31.64455,-106.27373,El Paso
+1448,0,0,0,1,0,0,0,0,0,0,0,0,Stamford Residence and Rehabilitation Center,32.93883,-99.84265,Jones
+1449,0,0,0,0,0,0,0,0,0,1,0,2,"Stanton Nursing and Rehabilitation, LP",32.15841,-101.84321,Martin
+1450,0,0,0,1,0,0,1,0,0,0,0,0,Stephens Memorial Hospital,32.80509,-98.89861,Stephens
+1451,0,0,0,0,0,0,0,0,0,0,1,2,Stephenville Nursing Home,32.28259,-98.19882,Erath
+1452,0,0,3,0,1,1,0,1,0,1,0,2,Sterling County Nursing Home,31.81488,-101.04641,Sterling
+1453,0,0,0,0,0,2,2,0,0,0,0,0,Sterling Oaks Rehabilitation,29.85208,-95.83094,Harris
+1454,1,4,1,2,1,1,2,2,0,0,0,1,Stevens Nursing and Rehabilitation,29.377,-96.84377,Lavaca
+1455,0,1,0,0,1,1,1,0,1,0,0,0,Stevens Nursing Home,29.2118,-97.08342,Lavaca
+1456,8,8,6,7,6,8,7,9,5,8,16,7,Stillhouse Rehabilitation and Healthcare Center,33.62385,-95.48378,Lamar
+1457,0,0,0,0,0,1,0,0,0,0,1,0,Stockdale Residence And Rehabilitation Center,29.24305,-97.92956,Wilson
+1458,3,2,4,4,3,3,3,6,3,5,1,6,Stone Oak Care Center,29.6337,-98.49605,Bexar
+1459,2,0,0,0,0,0,0,0,0,0,0,0,Stonebriar Nursing and Rehabilitation Center,30.24315,-97.76537,Travis
+1460,0,0,0,0,0,1,0,1,0,0,0,1,Stonebridge Sn Health Center,30.2611,-97.95944,Travis
+1461,4,4,7,4,9,8,7,4,1,3,2,3,Stonegate Nursing Center,32.701,-97.38392,Tarrant
+1463,4,8,4,8,4,3,4,7,7,9,6,4,"Stonemere Rehabilitation Center, LLC",33.15534,-96.7727,Collin
+1464,0,1,0,1,1,1,0,1,0,1,0,1,Stonewall Memorial Hospital,33.17852,-100.24899,Stonewall
+1465,5,1,4,2,6,5,5,0,5,4,1,2,Sugar Land Health Care Center,29.619640000000004,-95.60701,Fort Bend
+1466,5,1,5,8,6,6,5,5,1,2,2,5,Sulphur Springs Health and Rehabilitation Center,33.16816,-95.60681,Hopkins
+1468,19,9,14,16,12,15,10,15,5,10,8,10,Summer Meadows,32.58258,-94.72065,Gregg
+1469,5,2,1,3,2,4,3,3,4,6,2,0,Summit Nursing And Rehabilitation Of San Augustine,31.49499,-94.12708,San Augustine
+1471,2,4,1,1,3,1,1,2,5,3,5,6,Sundance Inn Health Center,29.69772,-98.0702,Comal
+1472,0,0,0,1,0,0,0,0,1,0,0,0,Sunflower Park Health Care,32.57358,-96.24717,Kaufman
+1473,1,0,0,0,0,0,0,0,0,0,1,2,"Sunny Springs Nursing and Rehab, Inc",33.16816,-95.60681,Hopkins
+1474,1,2,3,3,1,0,0,1,1,1,0,1,Sunrise Nursing and Rehabilitation Center,29.29428,-98.53945,Bexar
+1478,1,0,0,0,0,2,0,0,0,0,0,0,Sweeny Community Hospital,29.09235,-95.76601,Brazoria
+1479,0,0,2,2,1,0,1,3,2,3,2,1,Sweeny House,29.09235,-95.76601,Brazoria
+1480,0,0,0,0,0,0,2,0,0,1,1,1,Sweetwater Healthcare Center,32.45432,-100.36402,Nolan
+1481,0,1,1,3,1,1,1,1,0,1,0,1,Swisher Memorial Hospital District,34.57853,-101.69538,Swisher
+1485,0,0,0,0,0,1,1,0,0,0,0,0,Teague Nursing and Rehabilitation,31.6209,-96.24864,Freestone
+1487,2,2,0,0,0,0,0,0,0,2,2,0,TERRA BELLA HEALTH AND WELLNESS SUITES,29.60844,-95.38665,Harris
+1489,0,1,0,0,1,1,2,2,0,0,0,0,Terrell Healthcare Center,32.76168,-96.30018,Kaufman
+1493,2,0,1,0,1,0,2,0,1,0,1,0,Texan Nursing and Rehabilitation of Gonzales,29.47721,-97.45171,Gonzales
+1497,13,8,12,11,9,10,13,9,3,4,5,4,Texhoma Christian Care Center,33.9451,-98.52395,Wichita
+1498,6,6,10,7,6,5,4,8,3,3,6,4,Texoma Healthcare Center,33.60451,-96.54562,Grayson
+1499,3,0,1,3,2,4,1,2,1,1,0,0,The Arbors,35.20318,-101.89519,Potter
+1500,2,3,0,3,2,6,5,3,0,0,0,0,"The Arbors Healthcare and Rehabilitation, Inc",31.77995,-95.17381,Cherokee
+1501,3,3,5,4,9,6,3,4,3,6,4,5,The Atrium of Bellmead,31.62656,-97.09606,McLennan
+1502,2,2,2,2,2,0,0,2,0,3,1,1,The Atrium Rehabilitation Center,29.50555,-98.5722,Bexar
+1503,4,8,4,5,6,6,5,8,9,9,5,7,The Bartlett Rehab Skilled Care And Assisted Living,31.84821,-106.53264,El Paso
+1504,7,10,22,19,14,23,26,19,10,10,3,7,The Belmont at Twin Creeks,33.114670000000004,-96.69411,Collin
+1505,10,9,8,7,9,7,8,12,10,2,7,11,The Bradford at Brookside,30.7127,-94.82192,Polk
+1506,16,13,17,11,13,13,20,15,19,17,8,16,The Broadmoor at Creekside Park,30.11516,-95.50749,Harris
+1508,0,0,1,1,2,0,1,1,0,1,1,1,The Buckingham,29.73555,-95.52161,Harris
+1509,8,13,9,10,18,8,12,9,5,3,1,1,The Carlyle at Stonebridge Park,32.95998,-97.14859,Tarrant
+1510,19,20,25,19,20,20,8,15,8,6,3,5,THE CENTER AT GRANDE,32.30356,-95.17689,Smith
+1512,19,13,19,25,19,15,15,17,22,19,15,30,The Colonnades at Reflection Bay,29.546,-95.35082,Brazoria
+1513,5,13,11,10,11,15,11,10,9,9,8,7,The Concierge,29.750120000000006,-95.61547,Harris
+1514,3,1,2,1,3,1,2,3,1,2,3,0,The Courtyard Rehabilitation and Healthcare Center,28.80493,-96.98473,Victoria
+1515,7,8,13,16,23,12,13,8,3,8,8,10,The Courtyards at Pasadena,29.70217,-95.15943,Harris
+1516,0,0,0,0,0,0,0,0,0,0,0,1,The Craig Senior Living,35.20318,-101.89519,Potter
+1517,13,11,14,13,15,19,11,23,15,19,24,16,The Crescent,29.619640000000004,-95.60701,Fort Bend
+1518,3,2,1,1,2,4,6,5,1,3,1,1,THE CROSSINGS,29.50205,-95.08652,Galveston
+1519,4,6,9,9,9,11,20,21,11,11,8,9,The Enclave,29.6337,-98.49605,Bexar
+1520,6,8,14,7,19,13,14,11,11,11,9,11,The Forum at Lincoln Heights,29.48906,-98.45671,Bexar
+1521,4,4,5,6,7,8,5,4,5,6,4,6,The Forum at Memorial Woods,29.77083,-95.51166,Harris
+1522,5,3,5,6,6,3,1,2,1,1,2,1,The Forum at Park Lane,32.8652,-96.79097,Dallas
+1523,0,1,1,1,1,0,0,3,1,2,0,1,The Gardens Of Bellaire,29.70443,-95.46175,Harris
+1524,7,8,5,6,18,10,8,6,6,8,5,8,The Grace Care Center of Katy,29.7433,-95.82861,Fort Bend
+1525,0,1,2,0,0,0,0,0,1,0,0,0,The Hallmark,29.74833,-95.46803,Harris
+1526,11,10,12,17,15,12,9,9,4,2,1,3,The Harrison at Heritage,32.93098,-97.28435,Tarrant
+1527,22,19,10,13,18,26,18,18,12,7,8,11,THE HEALTHCARE RESORT OF PLANO,33.021370000000005,-96.74102,Collin
+1528,1,4,3,5,5,2,1,5,7,6,5,5,The Heights of Alamo,26.14583,-98.11938,Hidalgo
+1529,4,4,8,4,6,5,5,6,4,3,0,2,The Heights of Atascosa,28.93614,-98.42572,Atascosa
+1530,5,5,3,3,4,2,2,7,3,3,1,3,The Heights Of Bulverde,29.89823,-98.4063,Comal
+1531,1,0,1,0,1,0,2,0,1,0,2,1,The Heights of Gonzales,29.47721,-97.45171,Gonzales
+1532,2,1,3,3,2,4,3,3,2,3,1,0,The Heights of North Houston,30.00863,-95.44388,Harris
+1533,20,23,22,20,17,18,18,13,14,16,17,17,The Heights of Tomball,30.09543,-95.58939,Harris
+1534,2,1,1,0,1,0,2,1,3,0,1,1,The Heights of Tyler,32.23855,-95.32063,Smith
+1535,0,1,0,0,0,1,1,1,3,0,0,0,The Heights on Huebner,29.52465,-98.60749,Bexar
+1537,0,1,0,0,1,2,0,5,1,1,0,0,The Heritage Nursing Home,32.82157,-95.42366,Wood
+1538,0,2,3,4,4,2,3,2,2,1,2,3,"The Highlands Guest Care Center, Llc",32.91211,-96.73563,Dallas
+1539,1,0,2,3,1,3,3,4,0,0,3,3,The Hillcrest of North Dallas,32.99728,-96.79091,Collin
+1540,6,6,3,5,2,11,3,3,1,3,0,3,The Hills Nursing and Rehabilitation Center,33.272,-97.51417,Wise
+1544,7,4,6,10,9,3,8,11,6,5,7,8,The Homestead of Sherman,33.60451,-96.54562,Grayson
+1548,1,1,3,2,4,6,3,4,3,3,4,4,The Lakes at Texas City,29.39941,-94.99751,Galveston
+1549,0,2,0,2,4,1,3,3,3,2,3,6,The Landing At Watermere,32.95998,-97.14859,Tarrant
+1552,2,6,3,1,3,3,4,4,2,1,1,3,The Legacy at Town Creek,31.73458,-95.53316,Anderson
+1553,12,17,24,16,16,11,9,13,9,10,7,10,The Legacy Willow Bend,33.07735,-96.80704,Collin
+1554,2,1,1,0,0,1,1,1,0,0,0,0,The Lennwood Nursing and Rehabilitation,32.665620000000004,-96.87309,Dallas
+1556,4,2,5,3,1,5,2,6,6,6,3,3,The Lodge at Bear Creek,32.92498,-97.07177,Tarrant
+1557,4,4,9,4,9,3,11,7,2,5,4,3,The Madison on Marsh,32.96188,-96.89701,Dallas
+1558,5,4,9,3,2,6,3,6,2,4,3,5,The Manor at Seagoville,32.60745,-96.54088,Dallas
+1559,3,0,2,0,2,1,1,0,0,0,0,0,"The Manor Healthcare Residence, Ltd",31.65532,-96.46855,Limestone
+1561,0,1,1,2,2,3,3,2,1,1,1,1,The Meadows Health and Rehabilitation Center,32.87767,-96.74979,Dallas
+1562,31,23,37,28,38,30,22,23,30,27,24,31,The Medical Resort at Bay Area,29.64608,-95.13826,Harris
+1563,3,2,3,4,2,3,1,8,2,3,3,7,The Medical Resort at Pearland,29.546,-95.35082,Brazoria
+1564,14,12,15,19,10,10,10,13,9,7,8,11,The Medical Resort at Sugar Land,29.56645,-95.63557,Fort Bend
+1565,8,11,15,10,15,9,14,18,10,6,14,11,The Medical Resort at Sugar Land,29.56645,-95.63557,Fort Bend
+1566,3,4,2,2,4,6,8,7,4,2,5,4,The Medical Resort At Willowbrook,29.97776,-95.57315,Harris
+1567,0,1,2,2,2,2,4,7,3,1,1,0,The Medical Resort at Woodlands,30.10125,-95.35583,Montgomery
+1569,5,5,5,11,4,7,6,2,2,1,1,3,The Meridian,29.309790000000003,-94.77747,Galveston
+1570,9,5,5,6,10,6,4,9,6,5,8,7,The MonteVista at Coronado,31.84821,-106.53264,El Paso
+1571,0,0,0,0,1,0,1,1,0,0,0,0,The Oaks at Beaumont,30.05295,-94.17654,Jefferson
+1572,0,0,0,0,0,1,1,0,0,0,0,0,The Oaks at Brookshire,29.83893,-95.98251,Waller
+1573,1,0,1,1,0,2,1,0,0,4,2,5,The Oaks At Radford Hills Healthcare Center,32.57965,-99.6635,Taylor
+1574,0,0,0,0,0,0,1,0,1,0,1,0,"The Palms Nursing and Rehabilitation, LP",27.72946,-97.38567,Nueces
+1575,4,10,10,9,11,13,10,8,1,4,8,13,The Park in Plano,33.021370000000005,-96.74102,Collin
+1577,12,10,14,8,6,14,11,9,9,5,2,5,The Pavilion At Creekwood,32.5698,-97.14273,Tarrant
+1578,4,6,5,8,5,9,5,7,8,5,3,6,THE PHOENIX POST ACUTE,29.39095,-94.91973,Galveston
+1579,7,12,11,13,10,14,14,16,12,12,12,16,The Plaza at Edgemere Health Service,32.8652,-96.79097,Dallas
+1580,2,1,4,3,3,5,4,5,1,5,4,1,The Plaza at Lubbock,33.60429,-101.97648,Lubbock
+1581,0,1,1,0,2,0,0,2,1,1,2,3,The Plaza at Richardson,32.97395,-96.74203,Dallas
+1582,3,5,5,10,9,5,5,7,4,1,1,4,"The Rehabilitation and Wellness Centre of Dallas, LLC",32.80205,-96.78882,Dallas
+1583,0,1,1,0,1,1,1,0,1,2,2,3,The Renaissance at Kessler Park,32.73491,-96.903,Dallas
+1584,1,2,5,4,5,6,6,4,2,2,1,1,The Reserve at Richardson,32.97395,-96.74203,Dallas
+1585,4,3,4,3,4,1,0,2,2,2,5,2,The Resort at Texas City,29.39095,-94.91973,Galveston
+1586,5,7,11,15,12,6,7,6,10,7,3,8,The Rio at Mainland Center,29.39941,-94.99751,Galveston
+1587,6,1,2,2,3,5,3,3,7,5,2,0,The Rio At Mission Trails,29.3122,-98.39089,Bexar
+1588,4,1,0,1,0,0,0,0,0,0,0,0,The Rosewood Retirement Community,31.13896,-97.64326,Bell
+1591,2,2,7,6,4,4,6,4,0,2,7,6,The Springs Healthcare and Rehabilitation,30.50395,-97.82463,Williamson
+1592,0,2,2,4,1,4,3,1,2,1,1,1,The Springs Nursing Center,33.00551,-94.59071,Cass
+1593,1,2,2,4,0,1,4,3,2,1,0,3,The Stayton at Museum Way,32.74171,-97.38196,Tarrant
+1594,1,0,0,1,1,0,0,0,0,0,0,0,The Terrace at Denison,33.77167,-96.60413,Grayson
+1595,2,0,1,1,1,1,3,0,1,0,2,0,The Villa at Marbridge,30.13281,-97.87467,Travis
+1596,5,3,6,9,3,3,2,9,1,0,4,6,The Villa at Mountain View,32.73491,-96.903,Dallas
+1597,2,1,2,1,2,1,2,1,2,1,3,1,The Villa At Texarkana,33.51343,-94.13057,Bowie
+1598,7,13,4,5,6,2,5,9,6,6,4,13,"The Village at Gleannloch Farms, Inc",30.0391,-95.5338,Harris
+1601,1,2,4,6,5,4,4,5,3,3,4,3,The Village at Richardson,32.97395,-96.74203,Dallas
+1602,7,7,8,10,4,3,4,2,2,2,0,2,The Vintage Health Care Center,33.22113,-97.14723,Denton
+1603,13,7,13,8,11,11,15,11,5,4,4,5,The Waterton Healthcare and Rehabilitation,32.23855,-95.32063,Smith
+1604,5,0,2,0,0,0,2,1,3,0,0,0,The Wesleyan at Scenic,30.66539,-97.59735,Williamson
+1605,0,2,0,3,3,0,3,4,5,3,0,1,The Westbury Place,29.65245,-95.47702,Harris
+1606,11,5,9,11,6,7,7,7,8,8,7,10,The Woodlands Healthcare Center,30.17818,-95.50144,Montgomery
+1610,1,1,1,0,3,2,0,4,2,3,1,2,TimberRidge Health and Rehabilitation Center,30.94151,-94.05383,Jasper
+1611,6,10,12,16,13,14,13,9,11,8,9,8,Timberwood Nursing and Rehabilitation Center,30.7127,-94.82192,Polk
+1615,5,4,5,3,6,4,4,3,0,1,1,2,TMC Bonham Hospital,33.57268,-96.17766,Fannin
+1616,5,2,3,3,2,2,4,6,3,2,3,6,"Tomball Nursing Center, Inc",30.09543,-95.58939,Harris
+1618,1,0,6,2,4,2,2,2,3,0,4,0,Towers Nursing Home,30.01287,-97.17577,Bastrop
+1619,4,3,4,3,3,2,1,2,1,1,1,3,Town and Country Manor,29.85533,-98.72266,Kendall
+1620,3,4,2,3,3,3,3,4,0,4,4,8,Town East Rehabilitation and Healthcare Center,32.81577,-96.63039,Dallas
+1621,1,2,3,0,6,10,8,5,1,4,2,3,Town Hall Estates Health Care Facility Arlington,32.69221,-97.13341,Tarrant
+1622,5,2,6,4,6,8,4,7,7,5,4,4,Town Hall Estates Health Care Facility Keene,32.39253,-97.32686,Johnson
+1623,2,1,0,0,4,2,0,3,0,1,1,1,Town Hall Estates Health Care Facility Whitney,31.95806,-97.32888,Hill
+1624,1,2,1,4,2,3,1,7,2,0,0,3,Town Hall Estates Rehabilitation and Nursing Center,32.02172,-97.1336,Hill
+1626,1,0,5,2,2,2,4,1,2,0,0,1,Trail Lake Nursing and Rehabilitation,32.61898,-97.39318,Tarrant
+1627,1,4,4,3,3,0,1,1,1,0,3,0,Traymore Nursing Center,32.84885,-96.82587,Dallas
+1628,1,1,2,7,6,1,3,4,5,5,4,4,Treasure Hills Healthcare and Rehabilitation Center,26.25668,-97.66671,Cameron
+1629,3,5,3,8,6,5,3,5,2,2,6,1,Treemont Health Care Center,29.73555,-95.52161,Harris
+1630,0,0,1,1,0,0,1,2,2,2,1,3,Treemont Healthcare and Rehabilitation Center,32.90237,-96.79205,Dallas
+1631,14,23,15,15,17,13,19,18,2,12,4,8,Treviso Transitional Care,32.58258,-94.72065,Gregg
+1632,0,0,0,0,0,0,0,2,2,3,4,7,TREVISO TRANSITIONAL CARE,32.58258,-94.72065,Gregg
+1633,1,0,1,0,1,0,2,1,1,0,1,0,Trinity Care Center,30.50477,-97.64581,Williamson
+1635,1,3,3,5,2,3,3,2,1,2,1,2,"Trinity Nursing And Rehabilitation Of Burleson, Lp",32.52605,-97.30317,Johnson
+1636,1,1,1,1,1,1,1,1,1,2,2,2,"Trinity Nursing and Rehabilitation of Comfort, LP",29.97059,-98.90519,Kendall
+1637,2,3,0,1,0,2,0,1,0,1,1,1,"Trinity Nursing and Rehabilitation of Diboll, LP",31.17991,-94.76368,Angelina
+1638,2,3,2,2,3,2,3,1,4,4,2,1,Trinity Nursing and Rehabilitation of Granbury,32.42318,-97.80877,Hood
+1639,1,2,1,1,0,0,0,0,0,1,2,2,Trinity Of Italy Nursing And Rehabilitation,32.1807,-96.86697,Ellis
+1640,4,1,0,4,3,5,4,2,1,3,0,1,"Trinity of Winnsboro, LLC",32.90938,-95.26235,Hopkins
+1641,2,3,3,3,1,1,5,7,3,1,1,1,TRINITY REHABILITATION and HEALTHCARE CENTER,30.959840000000003,-95.32384,Trinity
+1642,0,2,1,2,1,4,5,1,2,0,0,0,Trinity Terrace Retirement Community,32.75923,-97.32978,Tarrant
+1645,0,0,0,0,0,0,0,0,0,0,0,2,Trisun Care Center Northeast El Paso,31.9519,-106.43401,El Paso
+1649,3,6,6,2,9,2,2,6,3,1,1,1,Trucare Living Centers,31.73458,-95.53316,Anderson
+1650,1,0,1,4,6,6,0,1,1,2,1,3,Trucare Living Centers Columbus,29.69375,-96.56013,Colorado
+1651,0,1,3,1,1,1,0,0,1,0,1,4,Trucare Living Centers Selma,29.54622,-98.26628,Guadalupe
+1653,0,0,0,0,1,0,0,2,0,0,0,1,Tulia Health and Rehabilitation Center,34.57853,-101.69538,Swisher
+1654,3,3,5,8,6,3,3,3,6,5,7,4,Tuscany Village Skilled Nursing And Rehabilitation,29.546,-95.35082,Brazoria
+1656,2,7,6,4,4,5,0,3,4,0,0,2,Twilight Nursing And Rehabilitation Center,32.086929999999995,-96.52879,Navarro
+1658,2,5,2,3,2,4,5,5,2,3,6,4,Twin Lakes Rehabilitation and Care Center,31.49499,-94.12708,San Augustine
+1659,1,3,0,0,0,0,1,1,1,1,0,1,Twin Oaks Health and Rehabilitation,31.9462,-95.25704,Cherokee
+1661,2,5,6,3,3,4,4,2,2,3,3,0,Twin Pines North Nursing And Rehabilitation Center,28.92333,-97.01817,Victoria
+1662,4,9,6,2,0,2,1,1,5,4,3,6,Twin Pines Nursing and Rehabilitation Center,28.92333,-97.01817,Victoria
+1663,0,2,3,1,0,0,2,2,2,1,0,0,University Park Nursing and Rehabilitation,33.7986,-98.51092,Wichita
+1664,13,12,17,21,15,13,5,9,6,4,5,8,University Place Retirement Community and Nursing Center,29.68802,-95.51627,Harris
+1668,1,1,1,0,1,1,2,1,0,0,0,0,Ut Health Pittsburg,32.96953,-94.95017,Camp
+1669,0,1,1,0,0,0,1,0,0,0,0,0,Ut Health Quitman,32.82157,-95.42366,Wood
+1670,2,1,2,2,2,2,2,4,3,3,3,4,Uvalde Healthcare and Rehabilitation Center,29.35664,-99.87147,Uvalde
+1671,1,0,0,1,2,1,1,0,0,0,0,1,Uvalde Memorial Hospital,29.35664,-99.87147,Uvalde
+1673,2,2,3,0,2,2,4,2,1,2,4,0,Val Verde Nursing and Rehabilitation Center,29.74211,-100.88273,Val Verde
+1677,1,5,1,1,2,2,1,1,1,2,1,3,Valley Grande Manor,26.15805,-97.98925,Hidalgo
+1680,2,0,1,0,0,0,0,1,1,0,0,0,Van Health Care Center,32.532270000000004,-95.64262,Van Zandt
+1682,8,7,8,8,12,13,7,9,9,4,5,6,Veranda Rehabilitation and Healthcare,26.25668,-97.66671,Cameron
+1683,1,1,2,3,1,2,2,3,1,0,0,0,Vernon Care Center,34.16774,-99.32555,Wilbarger
+1684,10,10,10,15,16,16,13,11,6,7,7,8,VIBRALIFE OF EL PASO,31.77618,-106.29785,El Paso
+1685,2,2,1,2,3,2,0,1,2,2,1,0,"Vibralife Of Katy, Llc",29.85208,-95.83094,Harris
+1686,4,4,7,8,10,6,8,4,5,5,3,4,Victoria Gardens of Allen,33.089659999999995,-96.60751,Collin
+1687,0,0,0,0,0,0,1,4,4,4,2,3,Victoria Gardens of Frisco,33.15534,-96.7727,Collin
+1689,0,2,5,1,3,2,0,1,0,2,3,2,Vidor Health and Rehabilitation Center,30.17843,-94.01841,Orange
+1690,0,2,1,0,4,4,0,0,0,1,1,0,Villa Haven Health and Rehabilitation Center,32.80509,-98.89861,Stephens
+1691,14,10,13,12,7,9,14,7,11,16,10,11,Villa Toscana at Cypress Woods,29.9805,-95.46358,Harris
+1692,0,0,0,0,1,0,0,0,0,0,0,0,Village Creek Nursing Center,32.69064,-97.26215,Tarrant
+1693,2,2,2,2,0,3,1,3,0,2,1,0,Village Creek Rehabilitation and Nursing Center,30.2256,-94.19614,Hardin
+1694,1,3,3,2,7,11,8,7,10,6,5,5,Village Healthcare and Rehabilitation,26.21583,-98.23917,Hidalgo
+1696,29,24,21,27,21,30,20,33,16,13,8,12,Villages of Lake Highlands,32.87853,-96.70782,Dallas
+1697,11,5,9,6,9,14,12,14,4,4,2,2,Villages On Macarthur,32.846990000000005,-96.95696,Dallas
+1698,1,0,0,2,1,1,2,0,0,1,1,1,Vista Del Mar Health and Rehabilitation,27.76805,-97.39899,Nueces
+1699,4,5,9,4,4,2,4,3,6,4,3,4,Vista Hills Health Care Center,31.76791,-106.33018,El Paso
+1700,0,1,1,0,0,0,0,1,1,0,0,0,Vista Living Of Vernon,34.16774,-99.32555,Wilbarger
+1701,2,3,2,4,3,5,4,2,2,4,3,1,Vista Nursing And Rehabilitation Center,29.64802,-95.18998,Harris
+1702,4,8,3,6,3,2,4,5,6,6,5,6,Vista Ridge Nursing and Rehabilitation Center,33.01371,-97.00024,Denton
+1705,15,11,13,14,14,21,10,22,20,24,23,28,Vosswood Nursing Center,29.74546,-95.48868,Harris
+1707,20,10,15,15,18,11,15,14,11,6,6,6,Walnut Place,32.87767,-96.74979,Dallas
+1708,1,0,2,4,2,1,0,0,3,2,0,2,Ward Memorial Hospital,31.545790000000004,-102.85809,Ward
+1713,0,0,0,0,0,0,0,1,0,0,0,0,Warm Springs Rehabilitation Hospital Of San Antonio,29.50555,-98.5722,Bexar
+1718,3,4,2,5,4,5,9,6,4,5,6,6,Weatherford Healthcare Center,32.75481,-97.78995,Parker
+1720,0,0,0,0,0,1,0,0,0,0,0,1,Wedgewood Nursing Home,32.653929999999995,-97.37723,Tarrant
+1721,0,0,0,0,0,0,0,1,0,0,0,0,"Wellington Care Center, Inc",34.896159999999995,-100.2061,Collingsworth
+1722,0,0,0,0,0,0,0,0,1,0,0,0,Wellington Oaks Nursing and Rehabilitation,32.7287,-97.31777,Tarrant
+1723,2,2,2,0,3,2,5,1,1,3,0,4,Wellington Rehabilitation and Healthcare,31.138070000000006,-97.37258,Bell
+1724,1,0,1,0,1,0,1,0,2,0,1,0,Wells Ltc Nursing And Rehabilitation,31.52059,-94.92748,Cherokee
+1725,2,4,2,3,4,2,4,5,3,5,3,5,Weslaco Nursing and Rehabilitation Center,26.15805,-97.98925,Hidalgo
+1726,0,0,1,0,0,0,0,1,0,1,0,0,Wesley Court Senior Living,32.36095,-99.82696,Taylor
+1727,3,3,2,2,4,1,1,1,1,1,2,1,Wesley Woods Health and Rehabilitation,31.52401,-97.25565,McLennan
+1729,4,7,9,11,10,10,5,9,10,5,7,8,West Houston Rehabilitation and Healthcare Center,29.69326,-95.6489,Harris
+1730,1,2,2,1,4,3,2,3,3,4,3,1,West Janisch Health Care Center,29.82693,-95.4259,Harris
+1731,7,4,2,3,2,3,3,1,6,4,5,5,West Oaks Nursing and Rehab Center,29.72359,-95.64179,Harris
+1732,2,0,0,0,0,0,0,0,0,0,3,2,West Oaks Nursing And Rehabilitation Center,30.16538,-97.82343,Travis
+1735,1,2,2,0,1,0,0,1,1,0,1,2,"West Rest Haven, Inc",31.77816,-97.09626,McLennan
+1736,1,3,3,0,1,4,2,2,3,1,1,0,"West Side Campus of Care, LP",32.77595,-97.52195,Tarrant
+1737,1,4,4,2,2,4,4,5,6,6,5,3,Westchase Health and Rehabilitation Center,29.70167,-95.53594,Harris
+1738,1,0,0,0,0,1,0,0,0,2,1,1,Western Hills Healthcare Residence,31.89183,-98.61491,Comanche
+1740,4,5,5,4,5,6,4,3,4,4,3,3,Westminster Manor Health Care Center,30.34736,-97.76847,Travis
+1741,1,0,0,0,0,0,1,1,1,1,1,0,Westover Hills Rehabilitation and Healthcare Center,29.46217,-98.67597,Bexar
+1743,1,1,0,1,1,1,1,6,1,0,0,0,Westview Manor and Rehabilitation Center,31.4458,-97.39449,McLennan
+1744,5,4,3,4,2,2,3,2,3,3,2,1,Westward Trails Rehabilitation and Health Care Center,31.62169,-94.74495,Nacogdoches
+1746,6,5,3,5,3,7,4,6,4,6,3,1,Wharton Nursing and Rehabilitation Center,29.30682,-96.09125,Wharton
+1747,0,0,0,2,1,1,0,0,0,0,0,0,"Wheeler Nursing and Rehabilitation, LP",35.43810999999999,-100.19616,Wheeler
+1748,1,2,4,1,1,0,0,0,0,0,0,3,Whispering Oaks Rehab and Nursing Center,29.096740000000004,-97.28269,DeWitt
+1749,2,6,4,7,3,6,3,5,5,4,1,1,Whispering Pines Lodge,32.50854,-94.72407,Gregg
+1750,1,1,1,2,2,0,2,0,0,0,0,0,Whispering Pines Nursing And Rehabilitation,32.90938,-95.26235,Hopkins
+1753,0,0,2,0,1,0,1,0,0,1,2,0,White Settlement Nursing Center,32.77595,-97.52195,Tarrant
+1754,1,3,2,1,1,1,1,0,0,0,0,0,Whitehall Nursing Center,31.2935,-95.49194,Houston
+1755,3,1,0,3,5,0,1,2,0,0,1,0,Whitesboro Nursing and Rehabilitation Center,33.74558,-96.93354,Grayson
+1757,0,0,0,1,2,0,1,2,2,1,1,1,Will O Bell Nursing Home,30.801640000000006,-97.42497,Williamson
+1758,1,0,0,1,1,0,0,0,0,0,0,0,William R Courtney State Veterans Home,31.138070000000006,-97.37258,Bell
+1759,5,7,4,6,5,2,4,7,3,1,1,4,Williamsburg Village Healthcare Campus,32.59884,-96.86375,Dallas
+1760,0,1,0,0,0,0,2,3,4,3,2,3,"Willis Nursing And Rehabilitation, Lp",30.4574,-95.36868,Montgomery
+1761,4,9,14,12,15,7,13,9,0,3,2,4,Willow Bend Nursing and Rehabilitation Center,32.81577,-96.63039,Dallas
+1762,1,7,2,3,5,4,2,4,2,7,10,5,WILLOW PARK REHABILITATION AND CARE CENTER,32.67075,-97.78314,Parker
+1763,7,2,2,5,4,3,3,3,3,0,2,2,Willow Rehab And Nursing,32.383990000000004,-94.87015,Gregg
+1764,1,0,1,2,2,2,1,0,0,1,1,3,Willow Springs Health and Rehabilitation Center,32.43398,-99.78205,Taylor
+1765,15,14,15,25,18,18,16,19,11,15,6,11,Willowbrook Nursing Center,31.72385,-94.62609,Nacogdoches
+1766,2,1,0,3,4,4,7,6,7,2,4,8,Willowbrook Residence and Rehabilitation Center,29.97776,-95.57315,Harris
+1767,0,1,4,4,3,9,8,5,4,2,5,1,Winchester Lodge Health and Rehabilitation,29.38147,-95.24205,Brazoria
+1768,4,0,0,0,1,3,1,0,1,2,0,2,Windcrest Health and Rehabilitation,32.36095,-99.82696,Taylor
+1769,6,8,5,7,8,8,5,5,6,5,10,6,Windcrest Nursing And Rehabilitation Center,30.28151,-98.87712,Gillespie
+1770,4,6,11,2,4,2,5,2,5,3,4,4,WINDEMERE AT WESTOVER HILLS,29.46217,-98.67597,Bexar
+1771,5,1,4,0,4,0,4,2,5,2,5,2,Windemere at Westover Hills,29.46217,-98.67597,Bexar
+1772,1,1,2,1,2,2,2,1,2,1,2,2,Windmill Nursing And Rehab Center,33.64459,-101.76828,Lubbock
+1774,4,8,3,6,3,5,4,2,1,3,1,3,Windsong Care Center,29.56048,-95.27752,Brazoria
+1775,6,2,4,7,2,9,7,9,5,5,3,2,Windsor Arbor View,26.27915,-98.18321,Hidalgo
+1776,7,10,9,9,11,11,11,12,19,17,17,17,Windsor Atrium,26.25668,-97.66671,Cameron
+1777,3,0,2,3,3,3,1,3,5,4,3,1,Windsor Calallen,27.83848,-97.59654,Nueces
+1778,6,12,15,15,11,12,12,10,0,2,0,0,Windsor Gardens,32.57462,-96.75069,Dallas
+1779,0,1,1,2,0,0,0,1,0,0,0,0,"Windsor Healthcare Residence, Ltd",31.50133,-96.51758,Limestone
+1780,4,4,4,7,6,5,6,5,3,3,3,1,Windsor Houston,29.85378,-95.44065,Harris
+1781,1,1,2,2,0,0,0,0,0,0,0,0,Windsor Mission Oaks Nursing And Rehabilitation Center,29.32652,-98.46938,Bexar
+1783,1,0,0,0,0,0,0,0,0,2,1,1,Windsor Nursing and Rehabilitation Center of Duval,30.4295,-97.71741,Travis
+1784,0,0,0,1,0,0,0,1,1,2,1,0,Windsor Nursing And Rehabilitation Center Of Seguin,29.5334,-97.93886,Guadalupe
+1785,1,1,1,0,0,1,2,2,1,0,1,0,Windsor Place Nursing Center,33.02093,-94.73185,Morris
+1786,2,1,1,2,4,6,4,5,1,2,2,3,Windsor Quail Valley Post Acute Healthcare Center,29.52569,-95.533,Fort Bend
+1787,3,1,4,1,1,6,5,5,4,0,1,2,Windsor Rehabilitation And Health Care Center,32.76168,-96.30018,Kaufman
+1788,0,3,2,3,2,1,2,2,0,0,0,0,Winfield Healthcare,31.2935,-95.49194,Houston
+1789,1,0,0,1,0,1,0,1,1,0,0,0,Winkler County Memorial Hospital,31.82641,-103.052,Winkler
+1790,0,0,0,1,0,0,0,0,0,0,0,0,Winnie L Nursing and Rehabilitation,30.87611,-96.90748,Milam
+1791,0,0,0,0,0,0,0,0,0,1,1,1,Winterhaven Healthcare Residence,29.85378,-95.44065,Harris
+1792,0,0,0,0,0,0,0,0,0,0,1,0,Winters Healthcare Residence,31.977690000000006,-99.95308,Runnels
+1793,1,3,4,4,2,0,1,1,2,0,1,0,Winters Park Nursing and Rehabilitation Center,32.92766,-96.62008,Dallas
+1794,1,0,0,2,2,3,3,4,2,1,1,1,Wisteria Place Nursing and Rehabilitation,32.43398,-99.78205,Taylor
+1795,2,2,4,5,5,2,5,2,4,2,4,4,WJ Mangold Memorial Hospital,34.1848,-101.38675,Floyd
+1796,0,1,0,1,0,1,0,1,0,1,0,1,Wood Memorial Nursing Center,32.67876,-95.4459,Wood
+1797,1,0,0,2,5,4,2,1,3,7,2,5,Woodlake Nursing Home,29.04936,-95.39242,Brazoria
+1800,0,0,0,0,0,1,0,0,0,0,0,0,"Woodland Manor Nursing and Rehabilitation, LP",30.32957,-95.5141,Montgomery
+1801,6,6,3,7,9,8,6,3,2,10,10,10,Woodland Park Nursing And Rehabilitation,30.49362,-94.99091,San Jacinto
+1802,1,1,3,2,4,4,0,0,2,0,2,2,Woodland Springs Nursing Center,31.576790000000006,-97.12697,McLennan
+1803,10,16,9,18,15,14,16,17,10,6,7,7,WOODLANDS PLACE REHABILITATION SUITES,33.77167,-96.60413,Grayson
+1804,0,0,0,1,2,1,2,3,2,1,2,1,Woodridge Health and Rehabilitation,32.92498,-97.07177,Tarrant
+1805,1,1,2,0,0,0,2,1,0,2,0,0,Woodridge Nursing and Rehabilitation Center,29.79764,-95.49174,Harris
+1806,0,4,1,2,0,3,2,3,2,2,1,2,Woodridge Nursing and Rehabilitation Center,28.40248,-97.71085,Bee
+1807,9,2,5,5,7,4,7,1,4,1,4,0,Woodville Health and Rehabilitation Center,30.7763,-94.4015,Tyler
+1808,4,2,4,1,2,7,2,5,5,3,6,4,Wooldridge Place Nursing Center,27.6603,-97.36893,Nueces
+1810,0,0,0,0,0,2,0,0,0,0,0,0,Yoakum Community Hospital Swing Bed,29.2118,-97.08342,Lavaca
+1811,0,1,1,0,0,1,1,0,0,1,1,0,Yoakum County Hospital,32.94697,-102.8723,Yoakum
+1812,0,3,0,1,0,0,1,0,0,0,0,0,Yoakum Nursing and Rehabilitation Center,29.2118,-97.08342,Lavaca
+1813,0,1,0,0,0,1,0,0,0,0,1,2,Yorktown Nursing and Rehabilitation Center,28.98216,-97.52254,DeWitt
