@@ -19,7 +19,7 @@ calc_CCs <- function (pat_num, CT1_prop, CT2_prop, PID, df = avg_duration_per_SN
 
   CCs_num = (((pat_num*(CT1_prop*0.01)*avg_CT1_time)/60)/52)/40 + (((pat_num*(CT2_prop*0.01)*avg_CT2_time)/60)/52)/40
  
-  return(ceiling(CCs_num))
+  return(CCs_num)
     
 }
 
