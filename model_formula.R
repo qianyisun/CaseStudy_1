@@ -13,8 +13,8 @@ calc_CCs <- function (pat_num, CT1_prop, CT2_prop, PID, df = avg_duration_per_SN
   }
   
   
-  avg_CT1_time = as.numeric(avg_duration_per_SNF_CT[avg_duration_per_SNF_CT$PID == PID & avg_duration_per_SNF_CT$ContractType == "CT1", "average_time_spent"])
-  avg_CT2_time = as.numeric(avg_duration_per_SNF_CT[avg_duration_per_SNF_CT$PID == PID & avg_duration_per_SNF_CT$ContractType == "CT2", "average_time_spent"])
+  avg_CT1_time = as.numeric(df[df$PID == PID & df$ContractType == "CT1", "average_time_spent"])
+  avg_CT2_time = as.numeric(df[df$PID == PID & df$ContractType == "CT2", "average_time_spent"])
   
 
   CCs_num = (((pat_num*(CT1_prop*0.01)*avg_CT1_time)/60)/52)/40 + (((pat_num*(CT2_prop*0.01)*avg_CT2_time)/60)/52)/40
