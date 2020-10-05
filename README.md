@@ -48,11 +48,16 @@
 
     8. 08-Monthly-Patients-CT.ipynb 
     
-        Description: Quanyi
+        In this notebook, we have similar data manipulation like "07-Get-Monthly-Patient-Data.ipynb". The difference is 
+        we should add several contain conditions in our code to ensure that we could attain monthly different CT Patients. 
+        Moreover, for some SNF which only have one type of CT, we should fill missing data with 0 as the number of patient 
+        in that month.
   
     9. 09-Get-Yearly-Patient-Records.ipynb 
     
-        Description: Quanyi
+        In this notebook, we load "episodes_dur.csv" and save it as a data frame. Then we group by 'PID'and 'EpisodeID' columns 
+        and use the count() function to calculate the number of patients in each snf in 2019. And in this notebook, 
+        we combine nearly all relative columns into a complete data frame and convert it into a relatively complete dataset.
 
     10. 10-Get-County-Level-Averages.ipynb 
     
