@@ -72,7 +72,7 @@ Month <- factor(rep(1:12, each = 2))
 CT_type <- rep(c('CT1','CT2'),times = 12)
 set.seed(1234)
 Number <- X
-df <- data.frame(x = x, y = y, CT_type = CT_type)
+df <- data.frame(x = Month, y = Number, CT_type = CT_type)
 ggplot(data = df, mapping = aes(x = Month, y = Number, fill = CT_type)) + geom_bar(stat = 'identity', position = 'dodge')+theme_minimal() + labs(title = Name,y = "Number  of  Patients")+ theme(legend.title = element_blank())
 
 
