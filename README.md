@@ -61,10 +61,12 @@
 
     10. 10-Get-County-Level-Averages.ipynb 
     
-        Description: This notebook finds the number of CC, number of patients and number of SNFs on a county level using datasets cleaned and prepared in notebooks 1-9. 
+        Description: This notebook finds the number of CC, number of patients and number of SNFs on a county level using datasets 
+        cleaned and prepared in notebooks 1-9. 
     
     11. 11-Application.R
     
-        Description: Yilin
+        Description: This file generates the shiny app. The ui part is the layout of dashboard and server part helps to update map, 
+        generate graphs and do calculation.
         
 Note: To run the shiny app, you may need to download several packages that you might not have. To avoid the setup process for the shiny app, please visit https://team2.shinyapps.io/CaseStudy_1/. This will allow you to use the application on a web server. 
