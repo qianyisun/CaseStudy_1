@@ -1,0 +1,13 @@
+name: CaseStudy_1
+title: CaseStudy_1
+username:
+account: lapop-team5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2946697
+bundleId: 3705370
+url: https://yilinyang.shinyapps.io/CaseStudy_1/
+when: 1601923936.70622
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|file/.DS_Store|.ipynb_checkpoints

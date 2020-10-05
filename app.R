@@ -10,12 +10,13 @@ library(ggthemes)
 library(readr)
 
 #import dataset
-county_new <- st_read("data/County.shp")
-#folder="./data"
+#county_new <- st_read("data/County.shp")
+folder="./polygon"
+county_new <- st_read(dsn=folder,layer='County')
 #county <- readOGR(dsn = folder, layer = "County", 
 #encoding="UTF-8")
 #county <- spTransform(county, CRS("+proj=longlat +ellps=GRS80"))
-County_Data <- read_csv("CountyData.csv")
+County_Data <- read_csv("file/CountyData.csv")
 
 county_new <- county_new %>% 
   left_join(County_Data,by=c('CNTY_NM'='county_name')) %>% 
@@ -26,11 +27,11 @@ county_new <- county_new %>%
 
 counties_simple <- rmapshaper::ms_simplify(county_new, keep = 0.05, keep_shapes = TRUE)
 
-addresses <- read_csv("curr_complete_dataset_delete_columns.csv")
+addresses <- read_csv("file/curr_complete_dataset_delete_columns.csv")
 
-curr_CT1_CT2_eachmonth <- read_csv("curr_CT1_CT2_eachmonth.csv")
+curr_CT1_CT2_eachmonth <- read_csv("file/curr_CT1_CT2_eachmonth.csv")
 
-avg_duration_per_SNF_CT <- read_csv("avg_duration_per_SNF_CT.csv")
+avg_duration_per_SNF_CT <- read_csv("file/avg_duration_per_SNF_CT.csv")
 
 
 calc_CCs <- function (pat_num, CT1_prop, CT2_prop, PID, df = avg_duration_per_SNF_CT){
@@ -228,7 +229,7 @@ server <- function(input, output, session) {
       CT_type <- rep(c('CT1','CT2'),times = 12)
       set.seed(1234)
       Number <- X
-      df <- data.frame(x = x, y = y,CT_type=CT_type)
+      df <- data.frame(x = Month, y = Number, CT_type = CT_type)
       ggplot(data = df, mapping = aes(x = Month, y = Number, fill = CT_type)) + 
         geom_bar(stat = 'identity', position = 'dodge')+theme_minimal() + 
         labs(y = "Number  of  Patients")+ theme(legend.title = element_blank())+
