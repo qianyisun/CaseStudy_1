@@ -22,20 +22,20 @@
 
     3. 03-Calculate-Num-CC.ipynb
     
-        Description: Umang
+        Description: This notebook calculates the number of CCs that are required to be hired based on the number of hours that need to be worked per patient. These hours were calculated using average task times and average weekly task times. It also assumes that CCs work 52, 40-hour work weeks per year. 
 
     4. 04-Geocoding.ipynb
     
-        Description: Umang
+        Description: This notebook uses the google maps API to find the latitude and longitude of SNFs using the addresses provided. 
 
     5. 05-Get-Average-Duration-Per-SNF-CT.ipynb
     
         Description: Marina
 
-    6. 06-Clean-County-Data.ipynb
+    6. 06-Clean-County-Data.ipynb Quanyi
 
-       In this notebook, we use "SNFs.xlsx" data frame to left join "uszips.csv" data frame to attain a dataset without missing data
-       in county columns and fill one missing data by manually applying the right value.
+       In this notebook, we use "SNFs.xlsx" dataframe to left join "uszips.csv" dataframe to attain a dataset without missing data
+       in county columns.
 
     7. 07-Get-Monthly-Patient-Data.ipynb 
     
@@ -61,7 +61,7 @@
 
     10. 10-Get-County-Level-Averages.ipynb 
     
-        Description: Umang
+        Description: This notebook finds the number of CC, number of patients and number of SNFs on a county level using datasets cleaned and prepared in notebooks 1-9. 
     
     11. 11-Application.R
     
