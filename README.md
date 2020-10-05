@@ -1,6 +1,6 @@
-Team 2 - Case Study 1 README
+# Team 2 - Case Study 1 README
 
-This Repo is organized in the following manner: 
+## This Repo is organized in the following manner: 
 
     1. Data - This is where the Original Data as well as any CSV files created during analysis are stored
     2. ipynb and R files - Run these files in the order listed below to replicate the final product
@@ -8,7 +8,7 @@ This Repo is organized in the following manner:
     4. polygon - This folder contains the shape files used to create the maps within the shiny application
     5. uszips.csv - This CSV was downloaded from the following URL to help create the maps and provide missing county level data: https://gis-txdot.opendata.arcgis.com/datasets/texas-county-boundaries-detailed
 
-To use this Repo, please run the files in the following order:
+## To use this Repo, please run the files in the following order:
 
     1. 01-Clean-Episodes-SNF.ipynb
     
