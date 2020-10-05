@@ -27,6 +27,8 @@ county_new <- county_new %>%
 
 counties_simple <- rmapshaper::ms_simplify(county_new, keep = 0.05, keep_shapes = TRUE)
 
+names(st_geometry(counties_simple)) = NULL
+
 addresses <- read_csv("file/curr_complete_dataset_delete_columns.csv")
 
 curr_CT1_CT2_eachmonth <- read_csv("file/curr_CT1_CT2_eachmonth.csv")
@@ -147,8 +149,8 @@ server <- function(input, output, session) {
       clearShapes() %>% 
       addTiles() %>%
       setView(lng = p$lng, lat = p$lat, zoom = 8) %>% 
-      addCircles(lng = addresses_new$lng , lat = addresses_new$lat , color = 'black', 
-                 fillColor = 'grey',radius = 32186, opacity = .3) %>% 
+      #addCircles(lng = addresses_new$lng , lat = addresses_new$lat , color = 'black', 
+                 #fillColor = 'grey',radius = 32186, opacity = .3) %>% 
       #addPulseMarkers(lng = addresses$long , lat = addresses$lat,icon = makePulseIcon(),layerId = addresses$ProviderName)
       addCircleMarkers(lng = addresses_new$lng , lat = addresses_new$lat,color = 'black',
                        layerId = addresses_new$PID)
