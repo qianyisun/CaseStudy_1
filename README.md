@@ -16,8 +16,9 @@
 
     2. 02-get-episodes-duration.ipynb
     
-       This notebook uses the episodes dataset to add a duration column. Duration of stay is defined as the difference between the AdmitDate and DischargeDate
-       columns. This column is used in determining how much work is neccesary at each SNF. 
+       This notebook uses the episodes dataset to add a column labeled "duration", which is how long a patient stayed at a SNF. Duration of stay is 
+       defined as the difference between the AdmitDate and DischargeDate columns. This column is used in determining how much work is neccesary
+       at each SNF. 
 
     3. 03-Calculate-Num-CC.ipynb
     
