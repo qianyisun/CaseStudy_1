@@ -32,7 +32,7 @@
     
         Description: Marina
 
-    6. 06-Clean-County-Data.ipynb Quanyi
+    6. 06-Clean-County-Data.ipynb
 
        In this notebook, we use "SNFs.xlsx" dataframe to left join "uszips.csv" dataframe to attain a dataset without missing data
        in county columns.
