@@ -53,4 +53,5 @@ To use this Repo, please run the files in the following order:
     11. 11-Application.R
     
         Description: Yilin
-
+        
+Note: To run the shiny app, you may need to download several packages that you might not have. To avoid the setup process for the shiny app, please visit https://team2.shinyapps.io/CaseStudy_1/. This will allow you to use the application on a web server. 
