@@ -34,8 +34,8 @@
 
     6. 06-Clean-County-Data.ipynb
 
-       In this notebook, we use "SNFs.xlsx" dataframe to left join "uszips.csv" dataframe to attain a dataset without missing data
-       in county columns.
+       In this notebook, we use "SNFs.xlsx" data frame to left join "uszips.csv" data frame to attain a dataset without missing data
+       in county columns and fill one missing data by manually applying the right value.
 
     7. 07-Get-Monthly-Patient-Data.ipynb 
     
