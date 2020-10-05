@@ -34,11 +34,17 @@
 
     6. 06-Clean-County-Data.ipynb Quanyi
 
-        Description: Quanyi
+       In this notebook, we use "SNFs.xlsx" dataframe to left join "uszips.csv" dataframe to attain a dataset without missing data
+       in county columns.
 
     7. 07-Get-Monthly-Patient-Data.ipynb 
     
-        Description: Quanyi
+       In this notebook, we load data frames from "Episodes.csv" and "Episodes_new.csv" and combine the two data frames into 
+       one data frame by using left join Episodes.csv. The dataset combination reason is we need "PID","EpisodeID" columns from
+       Episodes_new.csv which has the correct PIDs column after removing error records. Also, we need the format of "AdmitDate",
+       "DischargeDate" columns in Episodes.csv for our further operation. Then we do a series of data manipulation to obtain 
+       the dataset including Monthly-Patient-Data in 2019.
+       
 
     8. 08-Monthly-Patients-CT.ipynb 
     
