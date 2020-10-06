@@ -48,7 +48,6 @@
     
         In this notebook, we load data frames from "Episodes.csv" and "Episodes_new.csv" and combine the two data frames into one data frame by using left join Episodes.csv. The dataset combination reason is we need "PID","EpisodeID" columns from Episodes_new.csv which has the correct PIDs column after removing error records. Also, we need the format of "AdmitDate", "DischargeDate" columns in Episodes.csv for our further operation. Then we do a series of data manipulation to obtain the dataset including Monthly-Patient-Data in 2019.
        
-
     8. 08-Monthly-Patients-CT.ipynb 
     
         In this notebook, we have similar data manipulation like "07-Get-Monthly-Patient-Data.ipynb". The difference is we should add several contain conditions in our code to ensure that we could attain monthly different CT Patients. Moreover, for some SNF which only have one type of CT, we should fill missing data with 0 as the number of patient in that month.
