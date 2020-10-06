@@ -12,7 +12,14 @@
 
     1. 01-Clean-Episodes-SNF.ipynb
     
-        Description: Marina
+        This notebook is used to clean the SNFs and Episodes data files.
+        Changes made for SNFs:
+        Take out the SNFs that do not have patient data in Episodes.
+        Take out duplicate SNFs (same address but different PID)
+        
+        Changes made for Episodes:
+        Align with the second point above: for example, a record has PID #111 and another record has PID #112, however, PID #111 and #112 represent the same SNF, then we keep only one PID (whichever keeps in SNFs data file) and change the other one
+        Take out records that have no discharge date (2%)
 
     2. 02-get-episodes-duration.ipynb
     
