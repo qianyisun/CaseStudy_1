@@ -75,11 +75,11 @@ ui <- bootstrapPage(
            h2(textOutput("selected_var")),
            #h2(textInput("selected_var", NULL, value = "SNF Name", width = NULL, placeholder = NULL)),
            #uiOutput('textbox'),
-           numericInput("obs", "Number of Patients:", 1, min = 1, max = 100),
+           numericInput("obs", "Number of Patients:", 1, min = 1, max = 100)
     ),
     column(width=3, offset = 1,
            numericInput("p1", "%CT1:", 50, min = 0, max = 100),
-           numericInput("p2", "%CT2:", 50, min = 0, max = 100),
+           numericInput("p2", "%CT2:", 50, min = 0, max = 100)
     ),
     column(width=3,
            verbatimTextOutput("value")
